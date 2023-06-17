@@ -1,0 +1,5359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="195.71838pt"
+   version="1.1"
+   viewBox="0 0 180.96333 195.71838"
+   width="180.96333pt"
+   id="svg1941"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1943"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.4869018"
+     inkscape:cx="164.43588"
+     inkscape:cy="133.49906"
+     inkscape:window-width="1920"
+     inkscape:window-height="1062"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1941" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>2021-07-30T12:27:20.588835</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Matplotlib v3.4.2, https://matplotlib.org/</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <style
+       type="text/css"
+       id="style4">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+  </defs>
+  <g
+     id="axes_1"
+     transform="translate(-129.10025,-43.262803)">
+    <g
+       id="Poly3DCollection_1">
+      <defs
+         id="defs15">
+        <path
+           d="m 233.07748,-138.63196 4.19526,-10.32662 -26.11542,-1.58826 2.10704,10.47841 z"
+           id="me2af11cb92"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g19">
+        <use
+           style="fill:#2c4366;stroke:#000000"
+           x="0"
+           xlink:href="#me2af11cb92"
+           y="288"
+           id="use17"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_2">
+      <defs
+         id="defs23">
+        <path
+           d="m 213.26436,-140.06843 -2.10704,-10.47841 -25.39294,2.47796 8.25608,9.68279 z"
+           id="md03fafe90c"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g27">
+        <use
+           style="fill:#2c4366;stroke:#000000"
+           x="0"
+           xlink:href="#md03fafe90c"
+           y="288"
+           id="use25"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_3">
+      <defs
+         id="defs31">
+        <path
+           d="m 251.71656,-134.11141 10.17889,-9.23346 -24.62271,-5.61371 -4.19526,10.32662 z"
+           id="m967abc1226"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g35">
+        <use
+           style="fill:#375480;stroke:#000000"
+           x="0"
+           xlink:href="#m967abc1226"
+           y="288"
+           id="use33"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_4">
+      <defs
+         id="defs39">
+        <path
+           d="m 233.16762,-157.00135 4.22258,-10.18609 -26.29188,-1.59117 2.12075,10.33538 z"
+           id="mfd981fce4f"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g43">
+        <use
+           style="fill:#2c6666;stroke:#000000"
+           x="0"
+           xlink:href="#mfd981fce4f"
+           y="288"
+           id="use41"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_5">
+      <defs
+         id="defs47">
+        <path
+           d="m 194.02046,-138.38609 -8.25608,-9.68279 -22.4857,6.29117 13.77874,7.98269 z"
+           id="m84eb6713bf"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g51">
+        <use
+           style="fill:#2c4366;stroke:#000000"
+           x="0"
+           xlink:href="#m84eb6713bf"
+           y="288"
+           id="use49"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_6">
+      <defs
+         id="defs55">
+        <path
+           d="m 213.21907,-158.44323 -2.12075,-10.33538 -25.56542,2.4192 8.31017,9.55074 z"
+           id="m87ad33ed4e"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g59">
+        <use
+           style="fill:#2c6666;stroke:#000000"
+           x="0"
+           xlink:href="#m87ad33ed4e"
+           y="288"
+           id="use57"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_7">
+      <defs
+         id="defs63">
+        <path
+           d="m 267.50831,-126.78665 15.37137,-7.25577 -20.98423,-9.30245 -10.17889,9.23346 z"
+           id="m384a55b57e"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g67">
+        <use
+           style="fill:#375480;stroke:#000000"
+           x="0"
+           xlink:href="#m384a55b57e"
+           y="288"
+           id="use65"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_8">
+      <defs
+         id="defs71">
+        <path
+           d="m 251.93491,-152.5169 10.24579,-9.10868 -24.7905,-5.56186 -4.22258,10.18609 z"
+           id="m067274151d"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g75">
+        <use
+           style="fill:#378080;stroke:#000000"
+           x="0"
+           xlink:href="#m067274151d"
+           y="288"
+           id="use73"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_9">
+      <defs
+         id="defs79">
+        <path
+           d="m 228.78458,-128.06501 4.2929,-10.56695 -19.81312,-1.43647 2.1569,10.72636 z"
+           id="m810f667382"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g83">
+        <use
+           style="fill:#2c4366;stroke:#000000"
+           x="0"
+           xlink:href="#m810f667382"
+           y="288"
+           id="use81"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_10">
+      <defs
+         id="defs87">
+        <path
+           d="m 233.25899,-175.62362 4.25026,-10.04073 -26.47074,-1.59402 2.13464,10.18745 z"
+           id="mf3877be046"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g91">
+        <use
+           style="fill:#2c6643;stroke:#000000"
+           x="0"
+           xlink:href="#mf3877be046"
+           y="288"
+           id="use89"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_11">
+      <defs
+         id="defs95">
+        <path
+           d="m 215.42126,-129.34207 -2.1569,-10.72636 -19.2439,1.68234 8.43594,9.89373 z"
+           id="mce393ea178"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g99">
+        <use
+           style="fill:#2c4366;stroke:#000000"
+           x="0"
+           xlink:href="#mce393ea178"
+           y="288"
+           id="use97"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_12">
+      <defs
+         id="defs103">
+        <path
+           d="m 241.32744,-124.68723 10.38912,-9.42418 -18.63908,-4.52055 -4.2929,10.56695 z"
+           id="m81086f7ed6"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g107">
+        <use
+           style="fill:#375480;stroke:#000000"
+           x="0"
+           xlink:href="#m81086f7ed6"
+           y="288"
+           id="use105"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_13">
+      <defs
+         id="defs111">
+        <path
+           d="m 193.84307,-156.80867 -8.31017,-9.55074 -22.64145,6.18025 13.87038,7.87432 z"
+           id="m94cdd08ee4"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g115">
+        <use
+           style="fill:#2c6666;stroke:#000000"
+           x="0"
+           xlink:href="#m94cdd08ee4"
+           y="288"
+           id="use113"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_14">
+      <defs
+         id="defs119">
+        <path
+           d="m 213.17315,-177.07092 -2.13464,-10.18745 -25.74026,2.35861 8.36499,9.41414 z"
+           id="mab35c6fb62"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g123">
+        <use
+           style="fill:#2c6643;stroke:#000000"
+           x="0"
+           xlink:href="#mab35c6fb62"
+           y="288"
+           id="use121"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_15">
+      <defs
+         id="defs127">
+        <path
+           d="m 267.83721,-145.26526 15.47408,-7.15875 -21.13059,-9.20157 -10.24579,9.10868 z"
+           id="m5ad62e202f"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g131">
+        <use
+           style="fill:#378080;stroke:#000000"
+           x="0"
+           xlink:href="#m5ad62e202f"
+           y="288"
+           id="use129"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_16">
+      <defs
+         id="defs135">
+        <path
+           d="m 252.15628,-171.17671 10.31357,-8.97958 -24.9606,-5.50806 -4.25026,10.04073 z"
+           id="ma789059792"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g139">
+        <use
+           style="fill:#378054;stroke:#000000"
+           x="0"
+           xlink:href="#ma789059792"
+           y="288"
+           id="use137"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_17">
+      <defs
+         id="defs143">
+        <path
+           d="m 202.4564,-128.49236 -8.43594,-9.89373 -16.96304,4.59107 14.024,8.12478 z"
+           id="mb64d518c87"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g147">
+        <use
+           style="fill:#2c4366;stroke:#000000"
+           x="0"
+           xlink:href="#mb64d518c87"
+           y="288"
+           id="use145"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_18">
+      <defs
+         id="defs151">
+        <path
+           d="m 251.89057,-119.41457 15.61774,-7.37208 -15.79175,-7.32476 -10.38912,9.42418 z"
+           id="m8f4d987976"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g155">
+        <use
+           style="fill:#375480;stroke:#000000"
+           x="0"
+           xlink:href="#m8f4d987976"
+           y="288"
+           id="use153"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_19">
+      <defs
+         id="defs159">
+        <path
+           d="m 177.05742,-133.79502 -13.77874,-7.98269 -17.53242,9.55463 18.20336,5.4769 z"
+           id="m93df0894a4"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g163">
+        <use
+           style="fill:#2c4366;stroke:#000000"
+           x="0"
+           xlink:href="#m93df0894a4"
+           y="288"
+           id="use161"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_20">
+      <defs
+         id="defs167">
+        <path
+           d="m 228.84608,-146.57656 4.32154,-10.42479 -19.94855,-1.44188 2.17128,10.58164 z"
+           id="mc0a87bd16b"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g171">
+        <use
+           style="fill:#2c6666;stroke:#000000"
+           x="0"
+           xlink:href="#mc0a87bd16b"
+           y="288"
+           id="use169"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_21">
+      <defs
+         id="defs175">
+        <path
+           d="m 278.95879,-117.17875 19.30677,-4.51082 -15.38588,-12.35285 -15.37137,7.25577 z"
+           id="mfd3bfe2aa1"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g179">
+        <use
+           style="fill:#375480;stroke:#000000"
+           x="0"
+           xlink:href="#mfd3bfe2aa1"
+           y="288"
+           id="use177"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_22">
+      <defs
+         id="defs183">
+        <path
+           d="m 233.35164,-194.50402 4.2783,-9.89039 -26.65205,-1.5968 2.1487,10.03445 z"
+           id="mf17aec0887"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g187">
+        <use
+           style="fill:#38662c;stroke:#000000"
+           x="0"
+           xlink:href="#mf17aec0887"
+           y="288"
+           id="use185"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_23">
+      <defs
+         id="defs191">
+        <path
+           d="m 215.39035,-147.86159 -2.17128,-10.58164 -19.376,1.63456 8.49247,9.76026 z"
+           id="md3ffa13a3b"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g195">
+        <use
+           style="fill:#2c6666;stroke:#000000"
+           x="0"
+           xlink:href="#md3ffa13a3b"
+           y="288"
+           id="use193"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_24">
+      <defs
+         id="defs199">
+        <path
+           d="m 241.47604,-143.21879 10.45887,-9.29811 -18.76729,-4.48445 -4.32154,10.42479 z"
+           id="m167f0ba1d2"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g203">
+        <use
+           style="fill:#378080;stroke:#000000"
+           x="0"
+           xlink:href="#m167f0ba1d2"
+           y="288"
+           id="use201"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_25">
+      <defs
+         id="defs207">
+        <path
+           d="m 164.33384,-108.37207 -18.08134,-5.54814 -10.7284,12.15086 20.93374,2.362538 z"
+           id="m026abcefb0"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g211">
+        <use
+           style="fill:#5886cc;stroke:#000000"
+           x="0"
+           xlink:href="#m026abcefb0"
+           y="288"
+           id="use209"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_26">
+      <defs
+         id="defs215">
+        <path
+           d="m 193.66324,-175.48562 -8.36499,-9.41414 -22.79937,6.06568 13.96325,7.76219 z"
+           id="m4c17eb4269"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g219">
+        <use
+           style="fill:#2c6643;stroke:#000000"
+           x="0"
+           xlink:href="#m4c17eb4269"
+           y="288"
+           id="use217"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_27">
+      <defs
+         id="defs223">
+        <path
+           d="m 213.12659,-195.95676 -2.1487,-10.03445 -25.91751,2.29612 8.42052,9.27285 z"
+           id="mb30b3f87e1"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g227">
+        <use
+           style="fill:#38662c;stroke:#000000"
+           x="0"
+           xlink:href="#mb30b3f87e1"
+           y="288"
+           id="use225"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_28">
+      <defs
+         id="defs231">
+        <path
+           d="m 268.17068,-164.00092 15.57818,-7.05832 -21.27901,-9.09705 -10.31357,8.97958 z"
+           id="m4468da7b59"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g235">
+        <use
+           style="fill:#378054;stroke:#000000"
+           x="0"
+           xlink:href="#m4468da7b59"
+           y="288"
+           id="use233"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_29">
+      <defs
+         id="defs239">
+        <path
+           d="m 259.46279,-112.62371 19.496,-4.55504 -11.45048,-9.6079 -15.61774,7.37208 z"
+           id="m0f3f314430"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g243">
+        <use
+           style="fill:#375480;stroke:#000000"
+           x="0"
+           xlink:href="#m0f3f314430"
+           y="288"
+           id="use241"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_30">
+      <defs
+         id="defs247">
+        <path
+           d="m 252.38073,-190.09613 10.38226,-8.84602 -25.13305,-5.45226 -4.2783,9.89039 z"
+           id="m775a92c3cc"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g251">
+        <use
+           style="fill:#468037;stroke:#000000"
+           x="0"
+           xlink:href="#m775a92c3cc"
+           y="288"
+           id="use249"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_31">
+      <defs
+         id="defs255">
+        <path
+           d="m 191.08142,-125.67024 -14.024,-8.12478 -13.1078,7.04884 18.42271,5.54289 z"
+           id="mdc12b8adf1"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g259">
+        <use
+           style="fill:#2c4366;stroke:#000000"
+           x="0"
+           xlink:href="#mdc12b8adf1"
+           y="288"
+           id="use257"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_32">
+      <defs
+         id="defs263">
+        <path
+           d="m 182.63156,-102.75753 -18.29772,-5.61454 -7.876,8.965258 21.03869,2.374382 z"
+           id="m9ba63f093d"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g267">
+        <use
+           style="fill:#5886cc;stroke:#000000"
+           x="0"
+           xlink:href="#m9ba63f093d"
+           y="288"
+           id="use265"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_33">
+      <defs
+         id="defs271">
+        <path
+           d="m 202.33554,-147.04841 -8.49247,-9.76026 -17.08124,4.50383 14.119,8.01547 z"
+           id="m817d137176"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g275">
+        <use
+           style="fill:#2c6666;stroke:#000000"
+           x="0"
+           xlink:href="#m817d137176"
+           y="288"
+           id="use273"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_34">
+      <defs
+         id="defs279">
+        <path
+           d="m 252.11337,-137.99098 15.72384,-7.27428 -15.9023,-7.25164 -10.45887,9.29811 z"
+           id="ma48a0ec695"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g283">
+        <use
+           style="fill:#378080;stroke:#000000"
+           x="0"
+           xlink:href="#ma48a0ec695"
+           y="288"
+           id="use281"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_35">
+      <defs
+         id="defs287">
+        <path
+           d="m 176.76183,-152.30484 -13.87038,-7.87432 -17.65843,9.39983 18.32702,5.40312 z"
+           id="mbbf9424659"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g291">
+        <use
+           style="fill:#2c6666;stroke:#000000"
+           x="0"
+           xlink:href="#mbbf9424659"
+           y="288"
+           id="use289"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_36">
+      <defs
+         id="defs295">
+        <path
+           d="m 228.90844,-165.34594 4.35055,-10.27768 -20.08584,-1.4473 2.18585,10.43187 z"
+           id="mb432798977"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g299">
+        <use
+           style="fill:#2c6643;stroke:#000000"
+           x="0"
+           xlink:href="#mb432798977"
+           y="288"
+           id="use297"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_37">
+      <defs
+         id="defs303">
+        <path
+           d="m 279.37051,-135.75957 19.43867,-4.45131 -15.49789,-12.21313 -15.47408,7.15875 z"
+           id="m21dc248d0b"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g307">
+        <use
+           style="fill:#378080;stroke:#000000"
+           x="0"
+           xlink:href="#m21dc248d0b"
+           y="288"
+           id="use305"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_38">
+      <defs
+         id="defs311">
+        <path
+           d="m 233.44558,-213.64796 4.30671,-9.7349 -26.83586,-1.5995 2.16296,9.87621 z"
+           id="m668eb70071"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g315">
+        <use
+           style="fill:#5a662c;stroke:#000000"
+           x="0"
+           xlink:href="#m668eb70071"
+           y="288"
+           id="use313"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_39">
+      <defs
+         id="defs319">
+        <path
+           d="m 215.359,-166.63905 -2.18585,-10.43187 -19.50991,1.5853 8.54976,9.6221 z"
+           id="me3d91e2d21"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g323">
+        <use
+           style="fill:#2c6643;stroke:#000000"
+           x="0"
+           xlink:href="#me3d91e2d21"
+           y="288"
+           id="use321"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_40">
+      <defs
+         id="defs327">
+        <path
+           d="m 241.62672,-162.00907 10.52956,-9.16764 -18.89729,-4.44691 -4.35055,10.27768 z"
+           id="m879d851277"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g331">
+        <use
+           style="fill:#378054;stroke:#000000"
+           x="0"
+           xlink:href="#m879d851277"
+           y="288"
+           id="use329"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_41">
+      <defs
+         id="defs335">
+        <path
+           d="m 163.94962,-126.74618 -18.20336,-5.4769 -10.81053,11.97091 21.07861,2.33252 z"
+           id="m0ac9cca990"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g339">
+        <use
+           style="fill:#58cccc;stroke:#000000"
+           x="0"
+           xlink:href="#m0ac9cca990"
+           y="288"
+           id="use337"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_42">
+      <defs
+         id="defs343">
+        <path
+           d="m 284.87837,-106.03511 21.55255,-1.1899 -8.16536,-14.46456 -19.30677,4.51082 z"
+           id="m36906d2f5b"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g347">
+        <use
+           style="fill:#375480;stroke:#000000"
+           x="0"
+           xlink:href="#m36906d2f5b"
+           y="288"
+           id="use345"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_43">
+      <defs
+         id="defs351">
+        <path
+           d="m 193.4809,-194.42224 -8.42052,-9.27285 -22.95952,5.94736 14.05738,7.64615 z"
+           id="medf74bfb46"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g355">
+        <use
+           style="fill:#38662c;stroke:#000000"
+           x="0"
+           xlink:href="#medf74bfb46"
+           y="288"
+           id="use353"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_44">
+      <defs
+         id="defs359">
+        <path
+           d="m 213.07939,-215.10615 -2.16296,-9.87621 -26.09722,2.23168 8.4768,9.12668 z"
+           id="mb034538ee3"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g363">
+        <use
+           style="fill:#5a662c;stroke:#000000"
+           x="0"
+           xlink:href="#mb034538ee3"
+           y="288"
+           id="use361"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_45">
+      <defs
+         id="defs367">
+        <path
+           d="m 268.50882,-182.99903 15.68369,-6.95438 -21.42952,-8.98874 -10.38226,8.84602 z"
+           id="m160b28a01d"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g371">
+        <use
+           style="fill:#468037;stroke:#000000"
+           x="0"
+           xlink:href="#m160b28a01d"
+           y="288"
+           id="use369"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_46">
+      <defs
+         id="defs375">
+        <path
+           d="m 263.27116,-104.84219 21.60721,-1.19292 -5.91958,-11.14364 -19.496,4.55504 z"
+           id="md80fce47ae"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g379">
+        <use
+           style="fill:#375480;stroke:#000000"
+           x="0"
+           xlink:href="#md80fce47ae"
+           y="288"
+           id="use377"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_47">
+      <defs
+         id="defs383">
+        <path
+           d="m 259.73998,-131.26432 19.63053,-4.49525 -11.5333,-9.50569 -15.72384,7.27428 z"
+           id="m87d4fce35b"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g387">
+        <use
+           style="fill:#378080;stroke:#000000"
+           x="0"
+           xlink:href="#m87d4fce35b"
+           y="288"
+           id="use385"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_48">
+      <defs
+         id="defs391">
+        <path
+           d="m 252.60832,-209.28062 10.45187,-8.70785 -25.3079,-5.39439 -4.30671,9.7349 z"
+           id="m09ef706b7d"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g395">
+        <use
+           style="fill:#718037;stroke:#000000"
+           x="0"
+           xlink:href="#m09ef706b7d"
+           y="288"
+           id="use393"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_49">
+      <defs
+         id="defs399">
+        <path
+           d="m 190.88083,-144.28937 -14.119,-8.01547 -13.20179,6.92863 18.54942,5.46869 z"
+           id="mdb0e892de7"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g403">
+        <use
+           style="fill:#2c6666;stroke:#000000"
+           x="0"
+           xlink:href="#mdb0e892de7"
+           y="288"
+           id="use401"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_50">
+      <defs
+         id="defs407">
+        <path
+           d="m 182.37233,-121.20329 -18.42271,-5.54289 -7.93528,8.82653 21.18503,2.3443 z"
+           id="mc9bce24df5"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g411">
+        <use
+           style="fill:#58cccc;stroke:#000000"
+           x="0"
+           xlink:href="#mc9bce24df5"
+           y="288"
+           id="use409"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_51">
+      <defs
+         id="defs415">
+        <path
+           d="m 202.213,-165.86352 -8.54976,-9.6221 -17.20111,4.41373 14.21529,7.90229 z"
+           id="mf1198dccdc"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g419">
+        <use
+           style="fill:#2c6643;stroke:#000000"
+           x="0"
+           xlink:href="#mf1198dccdc"
+           y="288"
+           id="use417"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_52">
+      <defs
+         id="defs423">
+        <path
+           d="m 252.3393,-156.82788 15.83138,-7.17304 -16.0144,-7.17579 -10.52956,9.16764 z"
+           id="m3047b722a1"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g427">
+        <use
+           style="fill:#378054;stroke:#000000"
+           x="0"
+           xlink:href="#m3047b722a1"
+           y="288"
+           id="use425"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_53">
+      <defs
+         id="defs431">
+        <path
+           d="m 176.46213,-171.07189 -13.96325,-7.76219 -17.78626,9.2398 18.45238,5.32675 z"
+           id="m5836a6abd4"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g435">
+        <use
+           style="fill:#2c6643;stroke:#000000"
+           x="0"
+           xlink:href="#m5836a6abd4"
+           y="288"
+           id="use433"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_54">
+      <defs
+         id="defs439">
+        <path
+           d="m 228.97167,-184.3786 4.37997,-10.12542 -20.22505,-1.45274 2.20062,10.27689 z"
+           id="m6a718dd466"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g443">
+        <use
+           style="fill:#38662c;stroke:#000000"
+           x="0"
+           xlink:href="#m6a718dd466"
+           y="288"
+           id="use441"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_55">
+      <defs
+         id="defs447">
+        <path
+           d="m 279.78801,-154.60124 19.5724,-4.38969 -15.61155,-12.06831 -15.57818,7.05832 z"
+           id="m6e0381e8f2"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g451">
+        <use
+           style="fill:#378054;stroke:#000000"
+           x="0"
+           xlink:href="#m6e0381e8f2"
+           y="288"
+           id="use449"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_56">
+      <defs
+         id="defs455">
+        <path
+           d="m 177.49653,-97.03243 -21.03869,-2.374382 -1.82007,9.873075 21.80663,-1.215754 z"
+           id="mdf83398d03"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g459">
+        <use
+           style="fill:#5886cc;stroke:#000000"
+           x="0"
+           xlink:href="#mdf83398d03"
+           y="288"
+           id="use457"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_57">
+      <defs
+         id="defs463">
+        <path
+           d="m 233.54084,-233.061 4.3355,-9.57407 -27.02222,-1.60213 2.1774,9.71255 z"
+           id="m95cf244e19"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g467">
+        <use
+           style="fill:#664f2c;stroke:#000000"
+           x="0"
+           xlink:href="#m95cf244e19"
+           y="288"
+           id="use465"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_58">
+      <defs
+         id="defs471">
+        <path
+           d="m 215.32721,-185.67987 -2.20062,-10.27689 -19.64569,1.53452 8.60783,9.47911 z"
+           id="m275b1e3df2"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g475">
+        <use
+           style="fill:#38662c;stroke:#000000"
+           x="0"
+           xlink:href="#m275b1e3df2"
+           y="288"
+           id="use473"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_59">
+      <defs
+         id="defs479">
+        <path
+           d="m 241.77951,-181.06355 10.60122,-9.03258 -19.02909,-4.40789 -4.37997,10.12542 z"
+           id="ma87d7843cd"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g483">
+        <use
+           style="fill:#468037;stroke:#000000"
+           x="0"
+           xlink:href="#ma87d7843cd"
+           y="288"
+           id="use481"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_60">
+      <defs
+         id="defs487">
+        <path
+           d="m 156.45784,-99.406812 -20.93374,-2.362538 -2.7485,13.454464 21.86217,-1.218851 z"
+           id="m8d2f5cecf0"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g491">
+        <use
+           style="fill:#5886cc;stroke:#000000"
+           x="0"
+           xlink:href="#m8d2f5cecf0"
+           y="288"
+           id="use489"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_61">
+      <defs
+         id="defs495">
+        <path
+           d="m 163.56004,-145.37621 -18.32702,-5.40312 -10.89394,11.78474 21.22552,2.30142 z"
+           id="m97e01ebad7"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g499">
+        <use
+           style="fill:#58cc86;stroke:#000000"
+           x="0"
+           xlink:href="#m97e01ebad7"
+           y="288"
+           id="use497"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_62">
+      <defs
+         id="defs503">
+        <path
+           d="m 285.33621,-124.73644 21.70361,-1.17444 -8.23064,-14.3 -19.43867,4.45131 z"
+           id="m5feb2977bc"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g507">
+        <use
+           style="fill:#378080;stroke:#000000"
+           x="0"
+           xlink:href="#m5feb2977bc"
+           y="288"
+           id="use505"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_63">
+      <defs
+         id="defs511">
+        <path
+           d="m 193.29601,-213.624 -8.4768,-9.12668 -23.12192,5.82513 14.15277,7.52608 z"
+           id="mb6db668cca"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g515">
+        <use
+           style="fill:#5a662c;stroke:#000000"
+           x="0"
+           xlink:href="#mb6db668cca"
+           y="288"
+           id="use513"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_64">
+      <defs
+         id="defs519">
+        <path
+           d="m 213.03152,-234.52465 -2.1774,-9.71255 -26.27944,2.16521 8.53383,8.97549 z"
+           id="m68f231c69a"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g523">
+        <use
+           style="fill:#664f2c;stroke:#000000"
+           x="0"
+           xlink:href="#m68f231c69a"
+           y="288"
+           id="use521"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_65">
+      <defs
+         id="defs527">
+        <path
+           d="m 268.85173,-202.26513 15.79064,-6.84683 -21.58218,-8.87651 -10.45187,8.70785 z"
+           id="ma9ccd5d568"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g531">
+        <use
+           style="fill:#718037;stroke:#000000"
+           x="0"
+           xlink:href="#ma9ccd5d568"
+           y="288"
+           id="use529"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_66">
+      <defs
+         id="defs535">
+        <path
+           d="m 263.57716,-123.55899 21.75905,-1.17745 -5.9657,-11.02313 -19.63053,4.49525 z"
+           id="m67570747fb"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g539">
+        <use
+           style="fill:#378080;stroke:#000000"
+           x="0"
+           xlink:href="#m67570747fb"
+           y="288"
+           id="use537"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_67">
+      <defs
+         id="defs543">
+        <path
+           d="m 260.02108,-150.16791 19.76693,-4.43333 -11.61733,-9.39968 -15.83138,7.17304 z"
+           id="mfd563ef598"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g547">
+        <use
+           style="fill:#378054;stroke:#000000"
+           x="0"
+           xlink:href="#mfd563ef598"
+           y="288"
+           id="use545"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_68">
+      <defs
+         id="defs551">
+        <path
+           d="m 252.83912,-228.73579 10.52242,-8.56492 -25.4852,-5.33436 -4.3355,9.57407 z"
+           id="m6bec922698"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g555">
+        <use
+           style="fill:#806337;stroke:#000000"
+           x="0"
+           xlink:href="#m6bec922698"
+           y="288"
+           id="use553"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_69">
+      <defs
+         id="defs559">
+        <path
+           d="m 190.67742,-163.1696 -14.21529,-7.90229 -13.29713,6.80436 18.67789,5.39184 z"
+           id="mebf4134db7"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g563">
+        <use
+           style="fill:#2c6643;stroke:#000000"
+           x="0"
+           xlink:href="#mebf4134db7"
+           y="288"
+           id="use561"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_70">
+      <defs
+         id="defs567">
+        <path
+           d="m 182.10946,-139.90752 -18.54942,-5.46869 -7.99544,8.68304 21.33342,2.31313 z"
+           id="mbe1ba853c1"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g571">
+        <use
+           style="fill:#58cc86;stroke:#000000"
+           x="0"
+           xlink:href="#mbe1ba853c1"
+           y="288"
+           id="use569"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_71">
+      <defs
+         id="defs575">
+        <path
+           d="m 202.08873,-184.94313 -8.60783,-9.47911 -17.32266,4.32066 14.3129,7.78514 z"
+           id="mf7e17f7dba"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g579">
+        <use
+           style="fill:#38662c;stroke:#000000"
+           x="0"
+           xlink:href="#mf7e17f7dba"
+           y="288"
+           id="use577"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_72">
+      <defs
+         id="defs583">
+        <path
+           d="m 252.56842,-175.93081 15.9404,-7.06822 -16.12809,-7.0971 -10.60122,9.03258 z"
+           id="mdc868a459a"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g587">
+        <use
+           style="fill:#468037;stroke:#000000"
+           x="0"
+           xlink:href="#mdc868a459a"
+           y="288"
+           id="use585"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_73">
+      <defs
+         id="defs591">
+        <path
+           d="m 176.15824,-190.10158 -14.05738,-7.64615 -17.91595,9.07437 18.57947,5.24767 z"
+           id="m29e5ff8a1b"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g595">
+        <use
+           style="fill:#38662c;stroke:#000000"
+           x="0"
+           xlink:href="#m29e5ff8a1b"
+           y="288"
+           id="use593"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_74">
+      <defs
+         id="defs599">
+        <path
+           d="m 229.0358,-203.6801 4.40978,-9.96786 -20.36619,-1.45819 2.21558,10.1165 z"
+           id="m0f5da1632a"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g603">
+        <use
+           style="fill:#5a662c;stroke:#000000"
+           x="0"
+           xlink:href="#m0f5da1632a"
+           y="288"
+           id="use601"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_75">
+      <defs
+         id="defs607">
+        <path
+           d="m 280.21141,-173.70929 19.70797,-4.32588 -15.72687,-11.91824 -15.68369,6.95438 z"
+           id="mfe5aa2e1e7"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g611">
+        <use
+           style="fill:#468037;stroke:#000000"
+           x="0"
+           xlink:href="#mfe5aa2e1e7"
+           y="288"
+           id="use609"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_76">
+      <defs
+         id="defs615">
+        <path
+           d="m 262.8677,-96.713716 21.65211,2.419882 0.35856,-11.741276 -21.60721,1.19292 z"
+           id="m74a57c6bec"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g619">
+        <use
+           style="fill:#426599;stroke:#000000"
+           x="0"
+           xlink:href="#m74a57c6bec"
+           y="288"
+           id="use617"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_77">
+      <defs
+         id="defs623">
+        <path
+           d="m 177.19937,-115.57535 -21.18503,-2.3443 -1.8382,9.72376 21.96129,-1.20048 z"
+           id="mff2ecbc7a5"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g627">
+        <use
+           style="fill:#58cccc;stroke:#000000"
+           x="0"
+           xlink:href="#mff2ecbc7a5"
+           y="288"
+           id="use625"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_78">
+      <defs
+         id="defs631">
+        <path
+           d="m 215.29497,-204.98965 -2.21558,-10.1165 -19.78338,1.48215 8.66669,9.33114 z"
+           id="mf9302117df"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g635">
+        <use
+           style="fill:#5a662c;stroke:#000000"
+           x="0"
+           xlink:href="#mf9302117df"
+           y="288"
+           id="use633"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_79">
+      <defs
+         id="defs639">
+        <path
+           d="m 241.93446,-200.38782 10.67386,-8.8928 -19.16274,-4.36734 -4.40978,9.96786 z"
+           id="m9231e78f6b"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g643">
+        <use
+           style="fill:#718037;stroke:#000000"
+           x="0"
+           xlink:href="#m9231e78f6b"
+           y="288"
+           id="use641"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_80">
+      <defs
+         id="defs647">
+        <path
+           d="m 156.01434,-117.91965 -21.07861,-2.33252 -2.77721,13.25983 22.01762,-1.20355 z"
+           id="mbcbe9a07b5"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g651">
+        <use
+           style="fill:#58cccc;stroke:#000000"
+           x="0"
+           xlink:href="#mbcbe9a07b5"
+           y="288"
+           id="use649"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_81">
+      <defs
+         id="defs655">
+        <path
+           d="m 163.165,-164.26753 -18.45238,-5.32675 -10.97862,11.59215 21.37447,2.26921 z"
+           id="m8a287c9e4e"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g659">
+        <use
+           style="fill:#6fcc58;stroke:#000000"
+           x="0"
+           xlink:href="#m8a287c9e4e"
+           y="288"
+           id="use657"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_82">
+      <defs
+         id="defs663">
+        <path
+           d="m 284.51981,-94.293834 21.76271,2.432242 0.1484,-15.363418 -21.55255,1.1899 z"
+           id="ma8f790a64a"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g667">
+        <use
+           style="fill:#426599;stroke:#000000"
+           x="0"
+           xlink:href="#ma8f790a64a"
+           y="288"
+           id="use665"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_83">
+      <defs
+         id="defs671">
+        <path
+           d="m 285.80054,-143.70313 21.85681,-1.15844 -8.29694,-14.12936 -19.5724,4.38969 z"
+           id="md34f3660b4"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g675">
+        <use
+           style="fill:#378054;stroke:#000000"
+           x="0"
+           xlink:href="#md34f3660b4"
+           y="288"
+           id="use673"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_84">
+      <defs
+         id="defs679">
+        <path
+           d="m 193.10851,-233.0965 -8.53383,-8.97549 -23.28664,5.69889 14.24948,7.40185 z"
+           id="m9853245d47"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g683">
+        <use
+           style="fill:#664f2c;stroke:#000000"
+           x="0"
+           xlink:href="#m9853245d47"
+           y="288"
+           id="use681"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_85">
+      <defs
+         id="defs687">
+        <path
+           d="m 269.19951,-221.80495 15.89905,-6.73551 -21.73702,-8.76025 -10.52242,8.56492 z"
+           id="m0fd6640833"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g691">
+        <use
+           style="fill:#806337;stroke:#000000"
+           x="0"
+           xlink:href="#m0fd6640833"
+           y="288"
+           id="use689"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_86">
+      <defs
+         id="defs695">
+        <path
+           d="m 263.8875,-142.54172 21.91304,-1.16141 -6.01253,-10.89811 -19.76693,4.43333 z"
+           id="ma7d25f3be3"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g699">
+        <use
+           style="fill:#378054;stroke:#000000"
+           x="0"
+           xlink:href="#ma7d25f3be3"
+           y="288"
+           id="use697"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_87">
+      <defs
+         id="defs703">
+        <path
+           d="m 260.30617,-169.3401 19.90524,-4.36919 -11.70259,-9.28974 -15.9404,7.06822 z"
+           id="m2b6905c2f2"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g707">
+        <use
+           style="fill:#468037;stroke:#000000"
+           x="0"
+           xlink:href="#m2b6905c2f2"
+           y="288"
+           id="use705"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_88">
+      <defs
+         id="defs711">
+        <path
+           d="m 176.4444,-90.749491 -21.80663,1.215754 4.62304,9.742557 20.41169,-4.815902 z"
+           id="mc200eb9f6c"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g715">
+        <use
+           style="fill:#5886cc;stroke:#000000"
+           x="0"
+           xlink:href="#mc200eb9f6c"
+           y="288"
+           id="use713"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_89">
+      <defs
+         id="defs719">
+        <path
+           d="m 190.47114,-182.31644 -14.3129,-7.78514 -13.39386,6.67589 18.80814,5.31226 z"
+           id="m9c4980738b"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g723">
+        <use
+           style="fill:#38662c;stroke:#000000"
+           x="0"
+           xlink:href="#m9c4980738b"
+           y="288"
+           id="use721"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_90">
+      <defs
+         id="defs727">
+        <path
+           d="m 181.84289,-158.87569 -18.67789,-5.39184 -8.05653,8.53461 21.48391,2.28083 z"
+           id="m5c849d0653"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g731">
+        <use
+           style="fill:#6fcc58;stroke:#000000"
+           x="0"
+           xlink:href="#m5c849d0653"
+           y="288"
+           id="use729"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_91">
+      <defs
+         id="defs735">
+        <path
+           d="m 201.9627,-204.29286 -8.66669,-9.33114 -17.44595,4.22453 14.41186,7.66387 z"
+           id="m2c45e2b32c"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g739">
+        <use
+           style="fill:#5a662c;stroke:#000000"
+           x="0"
+           xlink:href="#m2c45e2b32c"
+           y="288"
+           id="use737"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_92">
+      <defs
+         id="defs743">
+        <path
+           d="m 252.8008,-195.30545 16.05093,-6.95968 -16.24341,-7.01549 -10.67386,8.8928 z"
+           id="ma798ac10ba"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g747">
+        <use
+           style="fill:#718037;stroke:#000000"
+           x="0"
+           xlink:href="#ma798ac10ba"
+           y="288"
+           id="use745"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_93">
+      <defs
+         id="defs751">
+        <path
+           d="m 175.85006,-209.39947 -14.15277,-7.52608 -18.04755,8.90337 18.70832,5.16582 z"
+           id="mcc4c15afef"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g755">
+        <use
+           style="fill:#5a662c;stroke:#000000"
+           x="0"
+           xlink:href="#mcc4c15afef"
+           y="288"
+           id="use753"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_94">
+      <defs
+         id="defs759">
+        <path
+           d="m 229.10084,-223.25618 4.44,-9.80482 -20.50932,-1.46365 2.23075,9.95054 z"
+           id="mb7e512ea8c"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g763">
+        <use
+           style="fill:#664f2c;stroke:#000000"
+           x="0"
+           xlink:href="#mb7e512ea8c"
+           y="288"
+           id="use761"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_95">
+      <defs
+         id="defs767">
+        <path
+           d="m 280.64084,-193.08941 19.84544,-4.25981 -15.84391,-11.76274 -15.79064,6.84683 z"
+           id="mf8976a2209"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g771">
+        <use
+           style="fill:#718037;stroke:#000000"
+           x="0"
+           xlink:href="#mf8976a2209"
+           y="288"
+           id="use769"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_96">
+      <defs
+         id="defs775">
+        <path
+           d="m 263.17308,-115.51005 21.80715,2.3889 0.35598,-11.61529 -21.75905,1.17745 z"
+           id="m97b844d9f0"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g779">
+        <use
+           style="fill:#429999;stroke:#000000"
+           x="0"
+           xlink:href="#m97b844d9f0"
+           y="288"
+           id="use777"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_97">
+      <defs
+         id="defs783">
+        <path
+           d="m 176.89802,-134.38004 -21.33342,-2.31313 -1.85667,9.5692 22.11816,-1.18463 z"
+           id="md5df4edb59"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g787">
+        <use
+           style="fill:#58cc86;stroke:#000000"
+           x="0"
+           xlink:href="#md5df4edb59"
+           y="288"
+           id="use785"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_98">
+      <defs
+         id="defs791">
+        <path
+           d="m 215.26227,-224.57411 -2.23075,-9.95054 -19.92301,1.42815 8.72637,9.178 z"
+           id="m85096c2952"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g795">
+        <use
+           style="fill:#664f2c;stroke:#000000"
+           x="0"
+           xlink:href="#m85096c2952"
+           y="288"
+           id="use793"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_99">
+      <defs
+         id="defs799">
+        <path
+           d="m 242.09163,-219.98766 10.74749,-8.74813 -19.29828,-4.32521 -4.44,9.80482 z"
+           id="m83efc582ac"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g803">
+        <use
+           style="fill:#806337;stroke:#000000"
+           x="0"
+           xlink:href="#m83efc582ac"
+           y="288"
+           id="use801"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_100">
+      <defs
+         id="defs807">
+        <path
+           d="m 155.5646,-136.69317 -21.22552,-2.30142 -2.80644,13.05831 22.17529,-1.18769 z"
+           id="m33423eef52"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g811">
+        <use
+           style="fill:#58cc86;stroke:#000000"
+           x="0"
+           xlink:href="#m33423eef52"
+           y="288"
+           id="use809"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_101">
+      <defs
+         id="defs815">
+        <path
+           d="m 154.63777,-89.533737 -21.86217,1.218851 5.86814,13.388065 20.61707,-4.864359 z"
+           id="m9b10365b33"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g819">
+        <use
+           style="fill:#5886cc;stroke:#000000"
+           x="0"
+           xlink:href="#m9b10365b33"
+           y="288"
+           id="use817"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_102">
+      <defs
+         id="defs823">
+        <path
+           d="m 162.76438,-183.42569 -18.57947,-5.24767 -11.06461,11.39291 21.52554,2.23584 z"
+           id="mdb678f2af0"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g827">
+        <use
+           style="fill:#b5cc58;stroke:#000000"
+           x="0"
+           xlink:href="#mdb678f2af0"
+           y="288"
+           id="use825"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_103">
+      <defs
+         id="defs831">
+        <path
+           d="m 284.98023,-113.12115 21.91932,2.40119 0.14027,-15.19092 -21.70361,1.17444 z"
+           id="mb78a01357b"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g835">
+        <use
+           style="fill:#429999;stroke:#000000"
+           x="0"
+           xlink:href="#mb78a01357b"
+           y="288"
+           id="use833"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_104">
+      <defs
+         id="defs839">
+        <path
+           d="m 286.27151,-162.9409 22.01218,-1.14185 -8.36431,-13.95242 -19.70797,4.32588 z"
+           id="m746fe136b7"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g843">
+        <use
+           style="fill:#468037;stroke:#000000"
+           x="0"
+           xlink:href="#m746fe136b7"
+           y="288"
+           id="use841"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_105">
+      <defs
+         id="defs847">
+        <path
+           d="m 258.20149,-88.945865 19.51052,5.928632 6.8078,-11.276601 -21.65211,-2.419882 z"
+           id="mf41c0ed2ca"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g851">
+        <use
+           style="fill:#426599;stroke:#000000"
+           x="0"
+           xlink:href="#mf41c0ed2ca"
+           y="288"
+           id="use849"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_106">
+      <defs
+         id="defs855">
+        <path
+           d="m 264.20229,-161.79609 22.06922,-1.14481 -6.0601,-10.76839 -19.90524,4.36919 z"
+           id="mc38199fba2"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g859">
+        <use
+           style="fill:#468037;stroke:#000000"
+           x="0"
+           xlink:href="#mc38199fba2"
+           y="288"
+           id="use857"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_107">
+      <defs
+         id="defs863">
+        <path
+           d="m 260.59534,-188.78665 20.0455,-4.30276 -11.78911,-9.17572 -16.05093,6.95968 z"
+           id="m789a9443c7"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g867">
+        <use
+           style="fill:#718037;stroke:#000000"
+           x="0"
+           xlink:href="#m789a9443c7"
+           y="288"
+           id="use865"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_108">
+      <defs
+         id="defs871">
+        <path
+           d="m 176.13743,-109.39637 -21.96129,1.20048 4.65077,9.595877 20.55921,-4.755847 z"
+           id="ma99776a213"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g875">
+        <use
+           style="fill:#58cccc;stroke:#000000"
+           x="0"
+           xlink:href="#ma99776a213"
+           y="288"
+           id="use873"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_109">
+      <defs
+         id="defs879">
+        <path
+           d="m 190.26192,-201.7356 -14.41186,-7.66387 -13.492,6.54311 18.94023,5.22985 z"
+           id="m0aa4904ec5"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g883">
+        <use
+           style="fill:#5a662c;stroke:#000000"
+           x="0"
+           xlink:href="#m0aa4904ec5"
+           y="288"
+           id="use881"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_110">
+      <defs
+         id="defs887">
+        <path
+           d="m 181.57252,-178.11343 -18.80814,-5.31226 -8.11854,8.38108 21.63653,2.24736 z"
+           id="m4cf041de8c"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g891">
+        <use
+           style="fill:#b5cc58;stroke:#000000"
+           x="0"
+           xlink:href="#m4cf041de8c"
+           y="288"
+           id="use889"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_111">
+      <defs
+         id="defs895">
+        <path
+           d="m 201.83488,-223.9185 -8.72637,-9.178 -17.57099,4.12525 14.51219,7.53832 z"
+           id="m135ced4af5"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g899">
+        <use
+           style="fill:#664f2c;stroke:#000000"
+           x="0"
+           xlink:href="#m135ced4af5"
+           y="288"
+           id="use897"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_112">
+      <defs
+         id="defs903">
+        <path
+           d="m 253.03651,-214.95762 16.163,-6.84733 -16.36039,-6.93084 -10.74749,8.74813 z"
+           id="m3ba8f5495d"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g907">
+        <use
+           style="fill:#806337;stroke:#000000"
+           x="0"
+           xlink:href="#m3ba8f5495d"
+           y="288"
+           id="use905"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_113">
+      <defs
+         id="defs911">
+        <path
+           d="m 175.53752,-228.97125 -14.24948,-7.40185 -18.18109,8.7266 18.83898,5.08108 z"
+           id="m4185073710"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g915">
+        <use
+           style="fill:#664f2c;stroke:#000000"
+           x="0"
+           xlink:href="#m4185073710"
+           y="288"
+           id="use913"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_114">
+      <defs
+         id="defs919">
+        <path
+           d="m 281.07643,-212.74746 19.98483,-4.1914 -15.9627,-11.6016 -15.89905,6.73551 z"
+           id="m8bbf7d12ae"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g923">
+        <use
+           style="fill:#806337;stroke:#000000"
+           x="0"
+           xlink:href="#m8bbf7d12ae"
+           y="288"
+           id="use921"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_115">
+      <defs
+         id="defs927">
+        <path
+           d="m 263.48283,-134.57542 21.96442,2.35678 0.35329,-11.48449 -21.91304,1.16141 z"
+           id="me6fb90c4af"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g931">
+        <use
+           style="fill:#429965;stroke:#000000"
+           x="0"
+           xlink:href="#me6fb90c4af"
+           y="288"
+           id="use929"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_116">
+      <defs
+         id="defs935">
+        <path
+           d="m 176.59238,-153.45209 -21.48391,-2.28083 -1.87546,9.40922 22.27729,-1.16821 z"
+           id="mb54f0d6aaa"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g939">
+        <use
+           style="fill:#6fcc58;stroke:#000000"
+           x="0"
+           xlink:href="#mb54f0d6aaa"
+           y="288"
+           id="use937"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_117">
+      <defs
+         id="defs943">
+        <path
+           d="m 179.6725,-84.607082 -20.41169,4.815902 10.80894,8.51896 16.8814,-8.047101 z"
+           id="m522649308d"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g947">
+        <use
+           style="fill:#5886cc;stroke:#000000"
+           x="0"
+           xlink:href="#m522649308d"
+           y="288"
+           id="use945"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_118">
+      <defs
+         id="defs951">
+        <path
+           d="m 155.10847,-155.73292 -21.37447,-2.26921 -2.83624,12.84968 22.33525,-1.17125 z"
+           id="mba5af8cd83"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g955">
+        <use
+           style="fill:#6fcc58;stroke:#000000"
+           x="0"
+           xlink:href="#mba5af8cd83"
+           y="288"
+           id="use953"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_119">
+      <defs
+         id="defs959">
+        <path
+           d="m 277.71201,-83.017233 19.75357,6.00249 8.81694,-14.846849 -21.76271,-2.432242 z"
+           id="m12fd380503"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g963">
+        <use
+           style="fill:#426599;stroke:#000000"
+           x="0"
+           xlink:href="#m12fd380503"
+           y="288"
+           id="use961"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_120">
+      <defs
+         id="defs967">
+        <path
+           d="m 154.17614,-108.19589 -22.01762,1.20355 5.90084,13.196368 20.76755,-4.804041 z"
+           id="meac9181b90"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g971">
+        <use
+           style="fill:#58cccc;stroke:#000000"
+           x="0"
+           xlink:href="#meac9181b90"
+           y="288"
+           id="use969"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_121">
+      <defs
+         id="defs975">
+        <path
+           d="m 162.35806,-202.85636 -18.70832,-5.16582 -11.15195,11.18681 21.67875,2.20126 z"
+           id="m8b14c9fd15"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g979">
+        <use
+           style="fill:#cc9e58;stroke:#000000"
+           x="0"
+           xlink:href="#m8b14c9fd15"
+           y="288"
+           id="use977"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_122">
+      <defs
+         id="defs983">
+        <path
+           d="m 285.44725,-132.21864 22.07821,2.36899 0.13189,-15.01192 -21.85681,1.15844 z"
+           id="m399c096562"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g987">
+        <use
+           style="fill:#429965;stroke:#000000"
+           x="0"
+           xlink:href="#m399c096562"
+           y="288"
+           id="use985"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_123">
+      <defs
+         id="defs991">
+        <path
+           d="m 286.74925,-182.45558 22.16978,-1.12466 -8.43275,-13.76898 -19.84544,4.25981 z"
+           id="m4130bf6e22"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g995">
+        <use
+           style="fill:#718037;stroke:#000000"
+           x="0"
+           xlink:href="#m4130bf6e22"
+           y="288"
+           id="use993"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_124">
+      <defs
+         id="defs999">
+        <path
+           d="m 258.47559,-107.81597 19.65268,5.85366 6.85196,-11.15884 -21.80715,-2.3889 z"
+           id="m7583a8b680"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1003">
+        <use
+           style="fill:#429999;stroke:#000000"
+           x="0"
+           xlink:href="#m7583a8b680"
+           y="288"
+           id="use1001"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_125">
+      <defs
+         id="defs1007">
+        <path
+           d="m 264.52162,-181.32798 22.22763,-1.1276 -6.10841,-10.63383 -20.0455,4.30276 z"
+           id="m4a9fb76d63"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1011">
+        <use
+           style="fill:#718037;stroke:#000000"
+           x="0"
+           xlink:href="#m4a9fb76d63"
+           y="288"
+           id="use1009"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_126">
+      <defs
+         id="defs1015">
+        <path
+           d="m 260.88868,-208.5135 20.18775,-4.23396 -11.87692,-9.05749 -16.163,6.84733 z"
+           id="md9b0723895"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1019">
+        <use
+           style="fill:#806337;stroke:#000000"
+           x="0"
+           xlink:href="#md9b0723895"
+           y="288"
+           id="use1017"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_127">
+      <defs
+         id="defs1023">
+        <path
+           d="m 175.82609,-128.3086 -22.11816,1.18463 4.67883,9.44398 20.70887,-4.69355 z"
+           id="mf80193fc3e"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1027">
+        <use
+           style="fill:#58cc86;stroke:#000000"
+           x="0"
+           xlink:href="#mf80193fc3e"
+           y="288"
+           id="use1025"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_128">
+      <defs
+         id="defs1031">
+        <path
+           d="m 190.04971,-221.43293 -14.51219,-7.53832 -13.59159,6.40583 19.07417,5.14452 z"
+           id="mf895c87393"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1035">
+        <use
+           style="fill:#664f2c;stroke:#000000"
+           x="0"
+           xlink:href="#mf895c87393"
+           y="288"
+           id="use1033"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_129">
+      <defs
+         id="defs1039">
+        <path
+           d="m 249.65917,-82.240733 15.29804,8.950991 12.7548,-9.727491 -19.51052,-5.928632 z"
+           id="mac9757466d"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1043">
+        <use
+           style="fill:#426599;stroke:#000000"
+           x="0"
+           xlink:href="#mac9757466d"
+           y="288"
+           id="use1041"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_130">
+      <defs
+         id="defs1047">
+        <path
+           d="m 181.29829,-197.62651 -18.94023,-5.22985 -8.18152,8.22225 21.79135,2.2127 z"
+           id="m1b9f3a1778"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1051">
+        <use
+           style="fill:#cc9e58;stroke:#000000"
+           x="0"
+           xlink:href="#m1b9f3a1778"
+           y="288"
+           id="use1049"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_131">
+      <defs
+         id="defs1055">
+        <path
+           d="m 263.79704,-153.91565 22.12398,2.32348 0.35049,-11.34873 -22.06922,1.14481 z"
+           id="m4be7e95f44"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1059">
+        <use
+           style="fill:#539942;stroke:#000000"
+           x="0"
+           xlink:href="#m4be7e95f44"
+           y="288"
+           id="use1057"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_132">
+      <defs
+         id="defs1063">
+        <path
+           d="m 176.28237,-172.79725 -21.63653,-2.24736 -1.89462,9.24364 22.43872,-1.15119 z"
+           id="m4fe65bd2f4"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1067">
+        <use
+           style="fill:#b5cc58;stroke:#000000"
+           x="0"
+           xlink:href="#m4fe65bd2f4"
+           y="288"
+           id="use1065"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_133">
+      <defs
+         id="defs1071">
+        <path
+           d="m 179.38612,-103.35586 -20.55921,4.755847 10.88266,8.388352 17.00542,-7.947425 z"
+           id="m67c5cfd7b2"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1075">
+        <use
+           style="fill:#58cccc;stroke:#000000"
+           x="0"
+           xlink:href="#m67c5cfd7b2"
+           y="288"
+           id="use1073"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_134">
+      <defs
+         id="defs1079">
+        <path
+           d="m 186.95115,-79.319321 -16.8814,8.047101 16.0408,6.270908 11.50217,-10.536864 z"
+           id="m07f638cfd2"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1083">
+        <use
+           style="fill:#4d76b2;stroke:#000000"
+           x="0"
+           xlink:href="#m07f638cfd2"
+           y="288"
+           id="use1081"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_135">
+      <defs
+         id="defs1087">
+        <path
+           d="m 154.64584,-175.04461 -21.52554,-2.23584 -2.8666,12.63368 22.49752,-1.1542 z"
+           id="m87d395f1b9"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1091">
+        <use
+           style="fill:#b5cc58;stroke:#000000"
+           x="0"
+           xlink:href="#m87d395f1b9"
+           y="288"
+           id="use1089"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_136">
+      <defs
+         id="defs1095">
+        <path
+           d="m 159.26081,-79.79118 -20.61707,4.864359 14.2614,11.836706 17.16461,-8.182105 z"
+           id="m7ddf2b4c92"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1099">
+        <use
+           style="fill:#5886cc;stroke:#000000"
+           x="0"
+           xlink:href="#m7ddf2b4c92"
+           y="288"
+           id="use1097"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_137">
+      <defs
+         id="defs1103">
+        <path
+           d="m 278.12827,-101.96231 19.89929,5.927119 8.87199,-14.684769 -21.91932,-2.40119 z"
+           id="m98880082cf"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1107">
+        <use
+           style="fill:#429999;stroke:#000000"
+           x="0"
+           xlink:href="#m98880082cf"
+           y="288"
+           id="use1105"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_138">
+      <defs
+         id="defs1111">
+        <path
+           d="m 153.70793,-127.12397 -22.17529,1.18769 5.93387,12.99775 20.92025,-4.74146 z"
+           id="m3de69e30d8"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1115">
+        <use
+           style="fill:#58cc86;stroke:#000000"
+           x="0"
+           xlink:href="#m3de69e30d8"
+           y="288"
+           id="use1113"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_139">
+      <defs
+         id="defs1119">
+        <path
+           d="m 285.92102,-151.59217 22.23943,2.3356 0.12324,-14.82618 -22.01218,1.14185 z"
+           id="m99436d94b4"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1123">
+        <use
+           style="fill:#539942;stroke:#000000"
+           x="0"
+           xlink:href="#m99436d94b4"
+           y="288"
+           id="use1121"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_140">
+      <defs
+         id="defs1127">
+        <path
+           d="m 287.23393,-202.25319 22.32965,-1.10686 -8.50232,-13.57881 -19.98483,4.1914 z"
+           id="mb070f625e0"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1131">
+        <use
+           style="fill:#806337;stroke:#000000"
+           x="0"
+           xlink:href="#mb070f625e0"
+           y="288"
+           id="use1129"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_141">
+      <defs
+         id="defs1135">
+        <path
+           d="m 258.75363,-126.95804 19.79695,5.7759 6.89667,-11.0365 -21.96442,-2.35678 z"
+           id="m817cefa94b"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1139">
+        <use
+           style="fill:#429965;stroke:#000000"
+           x="0"
+           xlink:href="#m817cefa94b"
+           y="288"
+           id="use1137"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_142">
+      <defs
+         id="defs1143">
+        <path
+           d="m 238.05629,-77.214504 9.39494,11.127799 17.50598,-7.203037 -15.29804,-8.950991 z"
+           id="m65b989ceea"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1147">
+        <use
+           style="fill:#426599;stroke:#000000"
+           x="0"
+           xlink:href="#m65b989ceea"
+           y="288"
+           id="use1145"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_143">
+      <defs
+         id="defs1151">
+        <path
+           d="m 264.84558,-201.14343 22.38835,-1.10976 -6.1575,-10.49427 -20.18775,4.23396 z"
+           id="m55319f272e"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1155">
+        <use
+           style="fill:#806337;stroke:#000000"
+           x="0"
+           xlink:href="#m55319f272e"
+           y="288"
+           id="use1153"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_144">
+      <defs
+         id="defs1159">
+        <path
+           d="m 175.5103,-147.49191 -22.27729,1.16821 4.70721,9.28668 20.86073,-4.62895 z"
+           id="maeac9e138c"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1163">
+        <use
+           style="fill:#6fcc58;stroke:#000000"
+           x="0"
+           xlink:href="#maeac9e138c"
+           y="288"
+           id="use1161"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_145">
+      <defs
+         id="defs1167">
+        <path
+           d="m 249.87336,-101.17017 15.41115,8.839045 12.84376,-9.631185 -19.65268,-5.85366 z"
+           id="mc118fbc3fd"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1171">
+        <use
+           style="fill:#429999;stroke:#000000"
+           x="0"
+           xlink:href="#mc118fbc3fd"
+           y="288"
+           id="use1169"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_146">
+      <defs
+         id="defs1175">
+        <path
+           d="m 197.61272,-75.538176 -11.50217,10.536864 19.6697,3.206417 4.81829,-11.977492 z"
+           id="m0a14d4978b"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1179">
+        <use
+           style="fill:#4d76b2;stroke:#000000"
+           x="0"
+           xlink:href="#m0a14d4978b"
+           y="288"
+           id="use1177"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_147">
+      <defs
+         id="defs1183">
+        <path
+           d="m 210.59854,-73.772387 -4.81829,11.977492 21.2133,-0.339799 -2.42581,-12.183128 z"
+           id="m5bca217089"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1187">
+        <use
+           style="fill:#4d76b2;stroke:#000000"
+           x="0"
+           xlink:href="#m5bca217089"
+           y="288"
+           id="use1185"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_148">
+      <defs
+         id="defs1191">
+        <path
+           d="m 224.56774,-74.317822 2.42581,12.183128 20.45768,-3.952011 -9.39494,-11.127799 z"
+           id="m3696265afc"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1195">
+        <use
+           style="fill:#4d76b2;stroke:#000000"
+           x="0"
+           xlink:href="#m3696265afc"
+           y="288"
+           id="use1193"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_149">
+      <defs
+         id="defs1199">
+        <path
+           d="m 264.95721,-73.289742 15.58466,9.118696 16.92371,-12.843697 -19.75357,-6.00249 z"
+           id="mb8e959e68f"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1203">
+        <use
+           style="fill:#426599;stroke:#000000"
+           x="0"
+           xlink:href="#mb8e959e68f"
+           y="288"
+           id="use1201"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_150">
+      <defs
+         id="defs1207">
+        <path
+           d="m 264.11582,-173.53672 22.28586,2.28896 0.34757,-11.20782 -22.22763,1.1276 z"
+           id="mfd92b900d0"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1211">
+        <use
+           style="fill:#889942;stroke:#000000"
+           x="0"
+           xlink:href="#mfd92b900d0"
+           y="288"
+           id="use1209"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_151">
+      <defs
+         id="defs1215">
+        <path
+           d="m 175.96789,-192.42141 -21.79135,-2.2127 -1.91412,9.07227 22.6025,-1.13354 z"
+           id="m034935e88f"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1219">
+        <use
+           style="fill:#cc9e58;stroke:#000000"
+           x="0"
+           xlink:href="#m034935e88f"
+           y="288"
+           id="use1217"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_152">
+      <defs
+         id="defs1223">
+        <path
+           d="m 179.09563,-122.37354 -20.70887,4.69355 10.95737,8.25305 17.13128,-7.844 z"
+           id="md2ebedebeb"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1227">
+        <use
+           style="fill:#58cc86;stroke:#000000"
+           x="0"
+           xlink:href="#md2ebedebeb"
+           y="288"
+           id="use1225"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_153">
+      <defs
+         id="defs1231">
+        <path
+           d="m 186.71499,-98.159086 -17.00542,7.947425 16.15485,6.168519 11.58773,-10.406948 z"
+           id="mb3a493bab4"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1235">
+        <use
+           style="fill:#4db2b2;stroke:#000000"
+           x="0"
+           xlink:href="#mb3a493bab4"
+           y="288"
+           id="use1233"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_154">
+      <defs
+         id="defs1239">
+        <path
+           d="m 154.17654,-194.63411 -21.67875,-2.20126 -2.89755,12.41007 22.66218,-1.13654 z"
+           id="m06bd2ae9d1"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1243">
+        <use
+           style="fill:#cc9e58;stroke:#000000"
+           x="0"
+           xlink:href="#m06bd2ae9d1"
+           y="288"
+           id="use1241"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_155">
+      <defs
+         id="defs1247">
+        <path
+           d="m 158.82691,-98.600013 -20.76755,4.804041 14.35741,11.666039 17.2928,-8.081728 z"
+           id="mdb938fe363"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1251">
+        <use
+           style="fill:#58cccc;stroke:#000000"
+           x="0"
+           xlink:href="#mdb938fe363"
+           y="288"
+           id="use1249"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_156">
+      <defs
+         id="defs1255">
+        <path
+           d="m 278.55058,-121.18214 20.04716,5.8489 8.92772,-14.51641 -22.07821,-2.36899 z"
+           id="m1662bdf1a9"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1259">
+        <use
+           style="fill:#429965;stroke:#000000"
+           x="0"
+           xlink:href="#m1662bdf1a9"
+           y="288"
+           id="use1257"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_157">
+      <defs
+         id="defs1263">
+        <path
+           d="m 153.23301,-146.3237 -22.33525,1.17125 5.96724,12.79198 21.07522,-4.67655 z"
+           id="m394468d8b1"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1267">
+        <use
+           style="fill:#6fcc58;stroke:#000000"
+           x="0"
+           xlink:href="#m394468d8b1"
+           y="288"
+           id="use1265"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_158">
+      <defs
+         id="defs1271">
+        <path
+           d="m 286.40168,-171.24776 22.40302,2.30098 0.11433,-14.63346 -22.16978,1.12466 z"
+           id="md2af7c9a28"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1275">
+        <use
+           style="fill:#889942;stroke:#000000"
+           x="0"
+           xlink:href="#md2af7c9a28"
+           y="288"
+           id="use1273"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_159">
+      <defs
+         id="defs1279">
+        <path
+           d="m 259.03571,-146.378 19.94334,5.69524 6.94197,-10.90941 -22.12398,-2.32348 z"
+           id="mf86a9476d6"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1283">
+        <use
+           style="fill:#539942;stroke:#000000"
+           x="0"
+           xlink:href="#mf86a9476d6"
+           y="288"
+           id="use1281"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_160">
+      <defs
+         id="defs1287">
+        <path
+           d="m 238.1875,-96.181507 9.46511,10.989813 17.6319,-7.139431 -15.41115,-8.839045 z"
+           id="m08f6e334e2"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1291">
+        <use
+           style="fill:#429999;stroke:#000000"
+           x="0"
+           xlink:href="#m08f6e334e2"
+           y="288"
+           id="use1289"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_161">
+      <defs
+         id="defs1295">
+        <path
+           d="m 170.06975,-71.27222 -17.16461,8.182105 21.4509,8.856823 11.75451,-10.76802 z"
+           id="mf17717f7f5"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1299">
+        <use
+           style="fill:#4d76b2;stroke:#000000"
+           x="0"
+           xlink:href="#mf17717f7f5"
+           y="288"
+           id="use1297"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_162">
+      <defs
+         id="defs1303">
+        <path
+           d="m 175.18994,-166.95216 -22.43872,1.15119 4.73593,9.1238 21.01483,-4.56197 z"
+           id="mb239bac0f8"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1307">
+        <use
+           style="fill:#b5cc58;stroke:#000000"
+           x="0"
+           xlink:href="#mb239bac0f8"
+           y="288"
+           id="use1305"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_163">
+      <defs
+         id="defs1311">
+        <path
+           d="m 250.09065,-120.37399 15.52595,8.72287 12.93398,-9.53102 -19.79695,-5.7759 z"
+           id="m0e8ad962c0"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1315">
+        <use
+           style="fill:#429965;stroke:#000000"
+           x="0"
+           xlink:href="#m0e8ad962c0"
+           y="288"
+           id="use1313"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_164">
+      <defs
+         id="defs1319">
+        <path
+           d="m 197.45215,-94.45009 -11.58773,10.406948 19.81254,3.141714 4.85439,-11.830051 z"
+           id="m9b34473c53"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1323">
+        <use
+           style="fill:#4db2b2;stroke:#000000"
+           x="0"
+           xlink:href="#m9b34473c53"
+           y="288"
+           id="use1321"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_165">
+      <defs
+         id="defs1327">
+        <path
+           d="m 210.53135,-92.731479 -4.85439,11.830051 21.36862,-0.3612 -2.444,-12.032873 z"
+           id="mfa4c8ae408"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1331">
+        <use
+           style="fill:#4db2b2;stroke:#000000"
+           x="0"
+           xlink:href="#mfa4c8ae408"
+           y="288"
+           id="use1329"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_166">
+      <defs
+         id="defs1335">
+        <path
+           d="m 224.60158,-93.295501 2.444,12.032873 20.60703,-3.929066 -9.46511,-10.989813 z"
+           id="md984e65958"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1339">
+        <use
+           style="fill:#4db2b2;stroke:#000000"
+           x="0"
+           xlink:href="#md984e65958"
+           y="288"
+           id="use1337"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_167">
+      <defs
+         id="defs1343">
+        <path
+           d="m 265.28451,-92.331125 15.70201,9.005861 17.04104,-12.709927 -19.89929,-5.927119 z"
+           id="m5fc1e936d9"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1347">
+        <use
+           style="fill:#429999;stroke:#000000"
+           x="0"
+           xlink:href="#m5fc1e936d9"
+           y="288"
+           id="use1345"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_168">
+      <defs
+         id="defs1351">
+        <path
+           d="m 264.43926,-193.44479 22.45014,2.25317 0.34453,-11.06157 -22.38835,1.10976 z"
+           id="maf82199de6"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1355">
+        <use
+           style="fill:#997642;stroke:#000000"
+           x="0"
+           xlink:href="#maf82199de6"
+           y="288"
+           id="use1353"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_169">
+      <defs
+         id="defs1359">
+        <path
+           d="m 178.80095,-141.66597 -20.86073,4.62895 11.03312,8.11289 17.25901,-7.73669 z"
+           id="m723b037213"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1363">
+        <use
+           style="fill:#6fcc58;stroke:#000000"
+           x="0"
+           xlink:href="#m723b037213"
+           y="288"
+           id="use1361"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_170">
+      <defs
+         id="defs1367">
+        <path
+           d="m 247.45123,-66.086705 9.61312,11.38622 23.47752,-9.470561 -15.58466,-9.118696 z"
+           id="m44d46a8158"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1371">
+        <use
+           style="fill:#426599;stroke:#000000"
+           x="0"
+           xlink:href="#m44d46a8158"
+           y="288"
+           id="use1369"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_171">
+      <defs
+         id="defs1375">
+        <path
+           d="m 186.47541,-117.27094 -17.13128,7.844 16.27055,6.06245 11.67457,-10.2721 z"
+           id="mab55749383"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1379">
+        <use
+           style="fill:#4db276;stroke:#000000"
+           x="0"
+           xlink:href="#mab55749383"
+           y="288"
+           id="use1377"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_172">
+      <defs
+         id="defs1383">
+        <path
+           d="m 158.38676,-117.67999 -20.92025,4.74146 14.45472,11.48912 17.4229,-7.97753 z"
+           id="mb0f4bce449"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1387">
+        <use
+           style="fill:#58cc86;stroke:#000000"
+           x="0"
+           xlink:href="#mb0f4bce449"
+           y="288"
+           id="use1385"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_173">
+      <defs
+         id="defs1391">
+        <path
+           d="m 278.97905,-140.68276 20.19726,5.76776 8.98414,-14.34157 -22.23943,-2.3356 z"
+           id="m56c7a11e4d"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1395">
+        <use
+           style="fill:#539942;stroke:#000000"
+           x="0"
+           xlink:href="#m56c7a11e4d"
+           y="288"
+           id="use1393"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_174">
+      <defs
+         id="defs1399">
+        <path
+           d="m 152.75122,-165.80097 -22.49752,1.1542 6.00095,12.57881 21.2325,-4.60921 z"
+           id="m441684bdc0"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1403">
+        <use
+           style="fill:#b5cc58;stroke:#000000"
+           x="0"
+           xlink:href="#m441684bdc0"
+           y="288"
+           id="use1401"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_175">
+      <defs
+         id="defs1407">
+        <path
+           d="m 286.8894,-191.19162 22.56902,2.26509 0.10516,-14.43352 -22.32965,1.10686 z"
+           id="mbf798cf0df"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1411">
+        <use
+           style="fill:#997642;stroke:#000000"
+           x="0"
+           xlink:href="#mbf798cf0df"
+           y="288"
+           id="use1409"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_176">
+      <defs
+         id="defs1415">
+        <path
+           d="m 186.11055,-65.001312 -11.75451,10.76802 26.4858,4.714474 4.93841,-12.276077 z"
+           id="mc2e8110106"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1419">
+        <use
+           style="fill:#4d76b2;stroke:#000000"
+           x="0"
+           xlink:href="#mc2e8110106"
+           y="288"
+           id="use1417"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_177">
+      <defs
+         id="defs1423">
+        <path
+           d="m 259.32192,-166.08194 20.09191,5.61158 6.98785,-10.7774 -22.28586,-2.28896 z"
+           id="m5551367989"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1427">
+        <use
+           style="fill:#889942;stroke:#000000"
+           x="0"
+           xlink:href="#m5551367989"
+           y="288"
+           id="use1425"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_178">
+      <defs
+         id="defs1431">
+        <path
+           d="m 238.32062,-115.42452 9.53634,10.84658 17.75964,-7.07318 -15.52595,-8.72287 z"
+           id="mf70666411d"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1435">
+        <use
+           style="fill:#429965;stroke:#000000"
+           x="0"
+           xlink:href="#mf70666411d"
+           y="288"
+           id="use1433"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_179">
+      <defs
+         id="defs1439">
+        <path
+           d="m 205.78025,-61.794895 -4.93841,12.276077 28.63907,-0.123582 -2.48736,-12.492294 z"
+           id="mbe1823bd01"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1443">
+        <use
+           style="fill:#4d76b2;stroke:#000000"
+           x="0"
+           xlink:href="#mbe1823bd01"
+           y="288"
+           id="use1441"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_180">
+      <defs
+         id="defs1447">
+        <path
+           d="m 226.99355,-62.134694 2.48736,12.492294 27.58344,-5.058085 -9.61312,-11.38622 z"
+           id="maa05fcd433"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1451">
+        <use
+           style="fill:#4d76b2;stroke:#000000"
+           x="0"
+           xlink:href="#maa05fcd433"
+           y="288"
+           id="use1449"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_181">
+      <defs
+         id="defs1455">
+        <path
+           d="m 169.70957,-90.211661 -17.2928,8.081728 21.60384,8.723726 11.84381,-10.636935 z"
+           id="m908e371a0b"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1459">
+        <use
+           style="fill:#4db2b2;stroke:#000000"
+           x="0"
+           xlink:href="#m908e371a0b"
+           y="288"
+           id="use1457"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_182">
+      <defs
+         id="defs1463">
+        <path
+           d="m 174.86492,-186.69538 -22.6025,1.13354 4.76498,8.95512 21.17122,-4.49249 z"
+           id="m8ab324cd0f"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1467">
+        <use
+           style="fill:#cc9e58;stroke:#000000"
+           x="0"
+           xlink:href="#m8ab324cd0f"
+           y="288"
+           id="use1465"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_183">
+      <defs
+         id="defs1471">
+        <path
+           d="m 250.31112,-139.8582 15.64246,8.60232 13.02547,-9.42688 -19.94334,-5.69524 z"
+           id="m34351f064e"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1475">
+        <use
+           style="fill:#539942;stroke:#000000"
+           x="0"
+           xlink:href="#m34351f064e"
+           y="288"
+           id="use1473"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_184">
+      <defs
+         id="defs1479">
+        <path
+           d="m 197.28925,-113.63659 -11.67457,10.2721 19.95746,3.07476 4.89104,-11.67699 z"
+           id="me30b943600"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1483">
+        <use
+           style="fill:#4db276;stroke:#000000"
+           x="0"
+           xlink:href="#me30b943600"
+           y="288"
+           id="use1481"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_185">
+      <defs
+         id="defs1487">
+        <path
+           d="m 210.46318,-111.96672 -4.89104,11.67699 21.52624,-0.3832 -2.46248,-11.87688 z"
+           id="mdc3ded7a02"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1491">
+        <use
+           style="fill:#4db276;stroke:#000000"
+           x="0"
+           xlink:href="#mdc3ded7a02"
+           y="288"
+           id="use1489"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_186">
+      <defs
+         id="defs1495">
+        <path
+           d="m 224.6359,-112.54981 2.46248,11.87688 20.75858,-3.90501 -9.53634,-10.84658 z"
+           id="m1ec4f8d587"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1499">
+        <use
+           style="fill:#4db276;stroke:#000000"
+           x="0"
+           xlink:href="#m1ec4f8d587"
+           y="288"
+           id="use1497"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_187">
+      <defs
+         id="defs1503">
+        <path
+           d="m 265.6166,-111.65112 15.82113,8.88871 17.16001,-12.57083 -20.04716,-5.8489 z"
+           id="mb25f10c26e"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1507">
+        <use
+           style="fill:#429965;stroke:#000000"
+           x="0"
+           xlink:href="#mb25f10c26e"
+           y="288"
+           id="use1505"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_188">
+      <defs
+         id="defs1511">
+        <path
+           d="m 178.50198,-161.23914 -21.01483,4.56197 11.10992,7.9677 17.38866,-7.62537 z"
+           id="m7dedeaf107"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1515">
+        <use
+           style="fill:#b5cc58;stroke:#000000"
+           x="0"
+           xlink:href="#m7dedeaf107"
+           y="288"
+           id="use1513"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_189">
+      <defs
+         id="defs1519">
+        <path
+           d="m 247.65261,-85.191694 9.68654,11.246916 23.64737,-9.380486 -15.70201,-9.005861 z"
+           id="m8c69cb7d40"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1523">
+        <use
+           style="fill:#429999;stroke:#000000"
+           x="0"
+           xlink:href="#m8c69cb7d40"
+           y="288"
+           id="use1521"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_190">
+      <defs
+         id="defs1527">
+        <path
+           d="m 186.23235,-136.66082 -17.25901,7.73669 16.3879,5.95259 11.76273,-10.13215 z"
+           id="m10093e76a1"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1531">
+        <use
+           style="fill:#61b24d;stroke:#000000"
+           x="0"
+           xlink:href="#m10093e76a1"
+           y="288"
+           id="use1529"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_191">
+      <defs
+         id="defs1535">
+        <path
+           d="m 157.94022,-137.03702 -21.07522,4.67655 14.55335,11.30571 17.55499,-7.86937 z"
+           id="m15ed2d54dc"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1539">
+        <use
+           style="fill:#6fcc58;stroke:#000000"
+           x="0"
+           xlink:href="#m15ed2d54dc"
+           y="288"
+           id="use1537"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_192">
+      <defs
+         id="defs1543">
+        <path
+           d="m 279.41383,-160.47036 20.34962,5.68357 9.04125,-14.15999 -22.40302,-2.30098 z"
+           id="m3a429058a2"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1547">
+        <use
+           style="fill:#889942;stroke:#000000"
+           x="0"
+           xlink:href="#m3a429058a2"
+           y="288"
+           id="use1545"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_193">
+      <defs
+         id="defs1551">
+        <path
+           d="m 152.26242,-185.56184 -22.66218,1.13654 6.03503,12.35796 21.39213,-4.53938 z"
+           id="m75fb1ed49c"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1555">
+        <use
+           style="fill:#cc9e58;stroke:#000000"
+           x="0"
+           xlink:href="#m75fb1ed49c"
+           y="288"
+           id="use1553"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_194">
+      <defs
+         id="defs1559">
+        <path
+           d="m 185.86442,-84.043142 -11.84381,10.636935 26.68004,4.631925 4.97631,-12.127146 z"
+           id="m4c2022dd03"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1563">
+        <use
+           style="fill:#4db2b2;stroke:#000000"
+           x="0"
+           xlink:href="#m4c2022dd03"
+           y="288"
+           id="use1561"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_195">
+      <defs
+         id="defs1567">
+        <path
+           d="m 259.61234,-186.07614 20.24271,5.52482 7.03435,-10.6403 -22.45014,-2.25317 z"
+           id="m0b1e1d73ab"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1571">
+        <use
+           style="fill:#997642;stroke:#000000"
+           x="0"
+           xlink:href="#m0b1e1d73ab"
+           y="288"
+           id="use1569"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_196">
+      <defs
+         id="defs1575">
+        <path
+           d="m 238.4557,-134.94962 9.60863,10.69791 17.88925,-7.00417 -15.64246,-8.60232 z"
+           id="m3c45ab243c"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1579">
+        <use
+           style="fill:#539942;stroke:#000000"
+           x="0"
+           xlink:href="#m3c45ab243c"
+           y="288"
+           id="use1577"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_197">
+      <defs
+         id="defs1583">
+        <path
+           d="m 205.67696,-80.901428 -4.97631,12.127146 28.85142,-0.147853 -2.50649,-12.340493 z"
+           id="m9d3c6a3ce3"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1587">
+        <use
+           style="fill:#4db2b2;stroke:#000000"
+           x="0"
+           xlink:href="#m9d3c6a3ce3"
+           y="288"
+           id="use1585"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_198">
+      <defs
+         id="defs1591">
+        <path
+           d="m 227.04558,-81.262628 2.50649,12.340493 27.78708,-5.022643 -9.68654,-11.246916 z"
+           id="m56feb9b64e"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1595">
+        <use
+           style="fill:#4db2b2;stroke:#000000"
+           x="0"
+           xlink:href="#m56feb9b64e"
+           y="288"
+           id="use1593"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_199">
+      <defs
+         id="defs1599">
+        <path
+           d="m 169.34413,-109.42694 -17.4229,7.97753 21.75896,8.585718 11.93449,-10.500798 z"
+           id="m629db0f87f"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1603">
+        <use
+           style="fill:#4db276;stroke:#000000"
+           x="0"
+           xlink:href="#m629db0f87f"
+           y="288"
+           id="use1601"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_200">
+      <defs
+         id="defs1607">
+        <path
+           d="m 250.53483,-159.62901 15.76074,8.47725 13.11826,-9.3186 -20.09191,-5.61158 z"
+           id="m0767c9b0df"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1611">
+        <use
+           style="fill:#889942;stroke:#000000"
+           x="0"
+           xlink:href="#m0767c9b0df"
+           y="288"
+           id="use1609"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_201">
+      <defs
+         id="defs1615">
+        <path
+           d="m 197.12397,-133.10369 -11.76273,10.13215 20.10452,3.00545 4.92825,-11.51809 z"
+           id="m715ce5f241"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1619">
+        <use
+           style="fill:#61b24d;stroke:#000000"
+           x="0"
+           xlink:href="#m715ce5f241"
+           y="288"
+           id="use1617"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_202">
+      <defs
+         id="defs1623">
+        <path
+           d="m 210.39401,-131.48418 -4.92825,11.51809 21.68621,-0.40581 -2.48124,-11.71495 z"
+           id="me2e966c1ef"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1627">
+        <use
+           style="fill:#61b24d;stroke:#000000"
+           x="0"
+           xlink:href="#me2e966c1ef"
+           y="288"
+           id="use1625"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_203">
+      <defs
+         id="defs1631">
+        <path
+           d="m 224.67073,-132.08685 2.48124,11.71495 20.91236,-3.87981 -9.60863,-10.69791 z"
+           id="m5189e50929"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1635">
+        <use
+           style="fill:#61b24d;stroke:#000000"
+           x="0"
+           xlink:href="#m5189e50929"
+           y="288"
+           id="use1633"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_204">
+      <defs
+         id="defs1639">
+        <path
+           d="m 265.95358,-131.25588 15.94207,8.76709 17.28066,-12.42621 -20.19726,-5.76776 z"
+           id="m3e97c45549"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1643">
+        <use
+           style="fill:#539942;stroke:#000000"
+           x="0"
+           xlink:href="#m3e97c45549"
+           y="288"
+           id="use1641"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_205">
+      <defs
+         id="defs1647">
+        <path
+           d="m 178.19862,-181.09921 -21.17122,4.49249 11.18779,7.81731 17.52028,-7.50988 z"
+           id="mcbf498ade7"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1651">
+        <use
+           style="fill:#cc9e58;stroke:#000000"
+           x="0"
+           xlink:href="#mcbf498ade7"
+           y="288"
+           id="use1649"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_206">
+      <defs
+         id="defs1655">
+        <path
+           d="m 247.85696,-104.57794 9.76109,11.10222 23.81968,-9.28669 -15.82113,-8.88871 z"
+           id="m7bbf4c5dc9"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1659">
+        <use
+           style="fill:#429965;stroke:#000000"
+           x="0"
+           xlink:href="#m7bbf4c5dc9"
+           y="288"
+           id="use1657"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_207">
+      <defs
+         id="defs1663">
+        <path
+           d="m 185.98573,-156.33484 -17.38866,7.62537 16.50696,5.83877 11.85222,-9.9869 z"
+           id="ma8220698ca"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1667">
+        <use
+           style="fill:#9eb24d;stroke:#000000"
+           x="0"
+           xlink:href="#ma8220698ca"
+           y="288"
+           id="use1665"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_208">
+      <defs
+         id="defs1671">
+        <path
+           d="m 157.48715,-156.67717 -21.2325,4.60921 14.65333,11.1156 17.68909,-7.75711 z"
+           id="m71bb90d278"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1675">
+        <use
+           style="fill:#b5cc58;stroke:#000000"
+           x="0"
+           xlink:href="#m71bb90d278"
+           y="288"
+           id="use1673"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_209">
+      <defs
+         id="defs1679">
+        <path
+           d="m 279.85505,-180.55132 20.50429,5.59622 9.09908,-13.97143 -22.56902,-2.26509 z"
+           id="m10426115b2"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1683">
+        <use
+           style="fill:#997642;stroke:#000000"
+           x="0"
+           xlink:href="#m10426115b2"
+           y="288"
+           id="use1681"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_210">
+      <defs
+         id="defs1687">
+        <path
+           d="m 185.61468,-103.36449 -11.93449,10.500798 26.87716,4.546386 5.01479,-11.972424 z"
+           id="m1c30458fbf"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1691">
+        <use
+           style="fill:#4db276;stroke:#000000"
+           x="0"
+           xlink:href="#m1c30458fbf"
+           y="288"
+           id="use1689"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_211">
+      <defs
+         id="defs1695">
+        <path
+           d="m 238.59277,-154.76305 9.68203,10.54362 18.02077,-6.93233 -15.76074,-8.47725 z"
+           id="m4e4f99acfb"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1699">
+        <use
+           style="fill:#889942;stroke:#000000"
+           x="0"
+           xlink:href="#m4e4f99acfb"
+           y="288"
+           id="use1697"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_212">
+      <defs
+         id="defs1703">
+        <path
+           d="m 205.57214,-100.28973 -5.01479,11.972424 29.06694,-0.172838 -2.52591,-12.182786 z"
+           id="m640d302385"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1707">
+        <use
+           style="fill:#4db276;stroke:#000000"
+           x="0"
+           xlink:href="#m640d302385"
+           y="288"
+           id="use1705"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_213">
+      <defs
+         id="defs1711">
+        <path
+           d="m 227.09838,-100.67293 2.52591,12.182786 27.99376,-4.985576 -9.76109,-11.10222 z"
+           id="mbb85394b12"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1715">
+        <use
+           style="fill:#4db276;stroke:#000000"
+           x="0"
+           xlink:href="#mbb85394b12"
+           y="288"
+           id="use1713"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_214">
+      <defs
+         id="defs1719">
+        <path
+           d="m 168.97334,-128.92413 -17.55499,7.86937 21.91633,8.44263 12.02656,-10.35941 z"
+           id="meb8c3b7bdd"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1723">
+        <use
+           style="fill:#61b24d;stroke:#000000"
+           x="0"
+           xlink:href="#meb8c3b7bdd"
+           y="288"
+           id="use1721"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_215">
+      <defs
+         id="defs1727">
+        <path
+           d="m 250.76186,-179.69276 15.88081,8.34748 13.21238,-9.20604 -20.24271,-5.52482 z"
+           id="m2d3d787607"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1731">
+        <use
+           style="fill:#997642;stroke:#000000"
+           x="0"
+           xlink:href="#m2d3d787607"
+           y="288"
+           id="use1729"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_216">
+      <defs
+         id="defs1735">
+        <path
+           d="m 196.95625,-152.8576 -11.85222,9.9869 20.25377,2.93374 4.96601,-11.35317 z"
+           id="ma20f01f3a8"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1739">
+        <use
+           style="fill:#9eb24d;stroke:#000000"
+           x="0"
+           xlink:href="#ma20f01f3a8"
+           y="288"
+           id="use1737"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_217">
+      <defs
+         id="defs1743">
+        <path
+           d="m 210.32381,-151.29013 -4.96601,11.35317 21.84856,-0.42906 -2.50028,-11.54687 z"
+           id="mb87dfde1cd"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1747">
+        <use
+           style="fill:#9eb24d;stroke:#000000"
+           x="0"
+           xlink:href="#mb87dfde1cd"
+           y="288"
+           id="use1745"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_218">
+      <defs
+         id="defs1751">
+        <path
+           d="m 224.70608,-151.91289 2.50028,11.54687 21.06844,-3.85341 -9.68203,-10.54362 z"
+           id="ma6ae44fd5b"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1755">
+        <use
+           style="fill:#9eb24d;stroke:#000000"
+           x="0"
+           xlink:href="#ma6ae44fd5b"
+           y="288"
+           id="use1753"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_219">
+      <defs
+         id="defs1759">
+        <path
+           d="m 266.29557,-151.15176 16.06488,8.64084 17.403,-12.27587 -20.34962,-5.68357 z"
+           id="m68723bc4f4"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1763">
+        <use
+           style="fill:#889942;stroke:#000000"
+           x="0"
+           xlink:href="#m68723bc4f4"
+           y="288"
+           id="use1761"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_220">
+      <defs
+         id="defs1767">
+        <path
+           d="m 248.06433,-124.25171 9.8368,10.95195 23.99452,-9.18903 -15.94207,-8.76709 z"
+           id="mdf0a3ba8eb"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1771">
+        <use
+           style="fill:#539942;stroke:#000000"
+           x="0"
+           xlink:href="#mdf0a3ba8eb"
+           y="288"
+           id="use1769"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_221">
+      <defs
+         id="defs1775">
+        <path
+           d="m 185.73547,-176.29929 -17.52028,7.50988 16.62777,5.72089 11.94308,-9.83619 z"
+           id="m2ef6b475ef"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1779">
+        <use
+           style="fill:#b28a4d;stroke:#000000"
+           x="0"
+           xlink:href="#m2ef6b475ef"
+           y="288"
+           id="use1777"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_222">
+      <defs
+         id="defs1783">
+        <path
+           d="m 157.0274,-176.60672 -21.39213,4.53938 14.75468,10.91853 17.82524,-7.6406 z"
+           id="mc19e8d9ac6"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1787">
+        <use
+           style="fill:#cc9e58;stroke:#000000"
+           x="0"
+           xlink:href="#mc19e8d9ac6"
+           y="288"
+           id="use1785"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_223">
+      <defs
+         id="defs1791">
+        <path
+           d="m 185.36124,-122.97154 -12.02656,10.35941 27.07721,4.45775 5.05387,-11.81171 z"
+           id="me6385d3311"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1795">
+        <use
+           style="fill:#61b24d;stroke:#000000"
+           x="0"
+           xlink:href="#me6385d3311"
+           y="288"
+           id="use1793"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_224">
+      <defs
+         id="defs1799">
+        <path
+           d="m 238.73187,-174.87125 9.75658,10.38349 18.15422,-6.85752 -15.88081,-8.34748 z"
+           id="m1439e1f8ab"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1803">
+        <use
+           style="fill:#997642;stroke:#000000"
+           x="0"
+           xlink:href="#m1439e1f8ab"
+           y="288"
+           id="use1801"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_225">
+      <defs
+         id="defs1807">
+        <path
+           d="m 205.46576,-119.96609 -5.05387,11.81171 29.28571,-0.19856 -2.54563,-12.01896 z"
+           id="mcae4af3abd"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1811">
+        <use
+           style="fill:#61b24d;stroke:#000000"
+           x="0"
+           xlink:href="#mcae4af3abd"
+           y="288"
+           id="use1809"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_226">
+      <defs
+         id="defs1815">
+        <path
+           d="m 227.15197,-120.3719 2.54563,12.01896 28.20353,-4.94682 -9.8368,-10.95195 z"
+           id="mca04e0667d"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1819">
+        <use
+           style="fill:#61b24d;stroke:#000000"
+           x="0"
+           xlink:href="#mca04e0667d"
+           y="288"
+           id="use1817"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_227">
+      <defs
+         id="defs1823">
+        <path
+           d="m 168.59707,-148.70947 -17.68909,7.75711 22.07599,8.29426 12.12006,-10.2126 z"
+           id="m7f70e8c2b7"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1827">
+        <use
+           style="fill:#9eb24d;stroke:#000000"
+           x="0"
+           xlink:href="#m7f70e8c2b7"
+           y="288"
+           id="use1825"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_228">
+      <defs
+         id="defs1831">
+        <path
+           d="m 196.78604,-172.90471 -11.94308,9.83619 20.40525,2.85951 5.00437,-11.18199 z"
+           id="mf28398fda3"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1835">
+        <use
+           style="fill:#b28a4d;stroke:#000000"
+           x="0"
+           xlink:href="#mf28398fda3"
+           y="288"
+           id="use1833"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_229">
+      <defs
+         id="defs1839">
+        <path
+           d="m 210.25258,-171.391 -5.00437,11.18199 22.01336,-0.45297 -2.51962,-11.3724 z"
+           id="m37d85d5161"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1843">
+        <use
+           style="fill:#b28a4d;stroke:#000000"
+           x="0"
+           xlink:href="#m37d85d5161"
+           y="288"
+           id="use1841"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_230">
+      <defs
+         id="defs1847">
+        <path
+           d="m 224.74195,-172.03438 2.51962,11.3724 21.22688,-3.82578 -9.75658,-10.38349 z"
+           id="m43df4666ad"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1851">
+        <use
+           style="fill:#b28a4d;stroke:#000000"
+           x="0"
+           xlink:href="#m43df4666ad"
+           y="288"
+           id="use1849"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_231">
+      <defs
+         id="defs1855">
+        <path
+           d="m 266.64267,-171.34528 16.18959,8.50979 17.52708,-12.11961 -20.50429,-5.59622 z"
+           id="md29a40444c"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1859">
+        <use
+           style="fill:#997642;stroke:#000000"
+           x="0"
+           xlink:href="#md29a40444c"
+           y="288"
+           id="use1857"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_232">
+      <defs
+         id="defs1863">
+        <path
+           d="m 248.2748,-144.21943 9.91369,10.79587 24.17196,-9.08736 -16.06488,-8.64084 z"
+           id="m122d7e1cc8"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1867">
+        <use
+           style="fill:#889942;stroke:#000000"
+           x="0"
+           xlink:href="#m122d7e1cc8"
+           y="288"
+           id="use1865"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_233">
+      <defs
+         id="defs1871">
+        <path
+           d="m 185.10403,-142.8707 -12.12006,10.2126 27.28026,4.36591 5.09357,-11.64477 z"
+           id="m4c16d85c1f"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1875">
+        <use
+           style="fill:#9eb24d;stroke:#000000"
+           x="0"
+           xlink:href="#m4c16d85c1f"
+           y="288"
+           id="use1873"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_234">
+      <defs
+         id="defs1879">
+        <path
+           d="m 205.3578,-139.93696 -5.09357,11.64477 29.50779,-0.22505 -2.56566,-11.84878 z"
+           id="me1c6308999"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1883">
+        <use
+           style="fill:#9eb24d;stroke:#000000"
+           x="0"
+           xlink:href="#me1c6308999"
+           y="288"
+           id="use1881"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_235">
+      <defs
+         id="defs1887">
+        <path
+           d="m 227.20636,-140.36602 2.56566,11.84878 28.41647,-4.90632 -9.91369,-10.79587 z"
+           id="m2a34cb2b6c"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1891">
+        <use
+           style="fill:#9eb24d;stroke:#000000"
+           x="0"
+           xlink:href="#m2a34cb2b6c"
+           y="288"
+           id="use1889"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_236">
+      <defs
+         id="defs1895">
+        <path
+           d="m 168.21519,-168.78941 -17.82524,7.6406 22.23798,8.14044 12.21503,-10.06015 z"
+           id="m313720a3b6"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1899">
+        <use
+           style="fill:#b28a4d;stroke:#000000"
+           x="0"
+           xlink:href="#m313720a3b6"
+           y="288"
+           id="use1897"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_237">
+      <defs
+         id="defs1903">
+        <path
+           d="m 248.48845,-164.48776 9.99177,10.63381 24.35204,-8.98154 -16.18959,-8.50979 z"
+           id="m93a6f5fb18"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1907">
+        <use
+           style="fill:#997642;stroke:#000000"
+           x="0"
+           xlink:href="#m93a6f5fb18"
+           y="288"
+           id="use1905"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_238">
+      <defs
+         id="defs1911">
+        <path
+           d="m 184.84296,-163.06852 -12.21503,10.06015 27.48639,4.27074 5.13389,-11.47138 z"
+           id="m73a801b6b3"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1915">
+        <use
+           style="fill:#b28a4d;stroke:#000000"
+           x="0"
+           xlink:href="#m73a801b6b3"
+           y="288"
+           id="use1913"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_239">
+      <defs
+         id="defs1919">
+        <path
+           d="m 205.24821,-160.20901 -5.13389,11.47138 29.73326,-0.25232 -2.58601,-11.67203 z"
+           id="m322ea2d1ab"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1923">
+        <use
+           style="fill:#b28a4d;stroke:#000000"
+           x="0"
+           xlink:href="#m322ea2d1ab"
+           y="288"
+           id="use1921"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <g
+       id="Poly3DCollection_240">
+      <defs
+         id="defs1927">
+        <path
+           d="m 227.26157,-160.66198 2.58601,11.67203 28.63264,-4.864 -9.99177,-10.63381 z"
+           id="mdbb2c547a3"
+           style="stroke:#000000" />
+      </defs>
+      <g
+         clip-path="url(#p6b27d4e9dc)"
+         id="g1931">
+        <use
+           style="fill:#b28a4d;stroke:#000000"
+           x="0"
+           xlink:href="#mdbb2c547a3"
+           y="288"
+           id="use1929"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+  </g>
+  <defs
+     id="defs1939">
+    <clipPath
+       id="p6b27d4e9dc">
+      <rect
+         height="288"
+         width="288"
+         x="72"
+         y="0"
+         id="rect1936" />
+    </clipPath>
+  </defs>
+</svg>
