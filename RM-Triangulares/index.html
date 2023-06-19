@@ -67,7 +67,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#incompleto-solo-la-matriz-esta-bien-triangulares-lineales" class="md-skip">
+        <a href="#triangulares-lineales" class="md-skip">
           Skip to content
         </a>
       
@@ -725,7 +725,7 @@
                   
 
 
-<h1 id="incompleto-solo-la-matriz-esta-bien-triangulares-lineales">INCOMPleto. Solo la matriz está bien. Triangulares lineales</h1>
+<h1 id="triangulares-lineales">Triangulares lineales</h1>
 <h2 id="matriz-de-conductividad">Matriz de conductividad</h2>
 <p>Esta matriz modela el comportamiento de un elemento triangular con <strong>esfuerzo plano</strong> (<script type="math/tex">\sigma_z = 0</script>):</p>
 <p>
@@ -733,7 +733,7 @@
 </p>
 <p>De manera similar a la anterior, esta matríz modela el comportamiento con <strong>deformación plana</strong> (<script type="math/tex">\varepsilon_z = 0</script>):</p>
 <p>
-<script type="math/tex; mode=display">\dfrac {E} {2(\nu+1)(1-2\nu)}\begin{bmatrix} b_{1}^{2} (2 - 2 \nu) + c_{1}^{2} (1 - 2 \nu) & 2 b_{1} c_{1} \nu + b_{1} c_{1} (1 - 2 \nu) & b_{1} b_{2} (2 - 2 \nu) + c_{1} c_{2} (1 - 2 \nu) & 2 b_{1} c_{2} \nu + b_{2} c_{1} (1 - 2 \nu) & b_{1} b_{3} (2 - 2 \nu) + c_{1} c_{3} (1 - 2 \nu) & 2 b_{1} c_{3} \nu + b_{3} c_{1} (1 - 2 \nu) \\ 2 b_{1} c_{1} \nu + b_{1} c_{1} (1 - 2 \nu) & c_{1}^{2} (2 - 2 \nu) + b_{1}^{2} (1 - 2 \nu) & 2 b_{2} c_{1} \nu + b_{1} c_{2} (1 - 2 \nu) & c_{1} c_{2} (2 - 2 \nu) + b_{1} b_{2} (1 - 2 \nu) & 2 b_{3} c_{1} \nu + b_{1} c_{3} (1 - 2 \nu) & c_{1} c_{3} (2 - 2 \nu) + b_{1} b_{3} (1 - 2 \nu) \\ b_{1} b_{2} (2 - 2 \nu) + c_{1} c_{2} (1 - 2 \nu) & 2 b_{2} c_{1} \nu + b_{1} c_{2} (1 - 2 \nu) & b_{2}^{2} (2 - 2 \nu) + c_{2}^{2} (1 - 2 \nu) & 2 b_{2} c_{2} \nu + b_{2} c_{2} (1 - 2 \nu) & b_{2} b_{3} (2 - 2 \nu) + c_{2} c_{3} (1 - 2 \nu) & 2 b_{2} c_{3} \nu + b_{3} c_{2} (1 - 2 \nu) \\ 2 b_{1} c_{2} \nu + b_{2} c_{1} (1 - 2 \nu) & c_{1} c_{2} (2 - 2 \nu) + b_{1} b_{2} (1 - 2 \nu) & 2 b_{2} c_{2} \nu + b_{2} c_{2} (1 - 2 \nu) & c_{2}^{2} (2 - 2 \nu) + b_{2}^{2} (1 - 2 \nu) & 2 b_{3} c_{2} \nu + b_{2} c_{3} (1 - 2 \nu) & c_{2} c_{3} (2 - 2 \nu) + b_{2} b_{3} (1 - 2 \nu) \\ b_{1} b_{3} (2 - 2 \nu) + c_{1} c_{3} (1 - 2 \nu) & 2 b_{3} c_{1} \nu + b_{1} c_{3} (1 - 2 \nu) & b_{2} b_{3} (2 - 2 \nu) + c_{2} c_{3} (1 - 2 \nu) & 2 b_{3} c_{2} \nu + b_{2} c_{3} (1 - 2 \nu) & b_{3}^{2} (2 - 2 \nu) + c_{3}^{2} (1 - 2 \nu) & 2 b_{3} c_{3} \nu + b_{3} c_{3} (1 - 2 \nu) \\ 2 b_{1} c_{3} \nu + b_{3} c_{1} (1 - 2 \nu) & c_{1} c_{3} (2 - 2 \nu) + b_{1} b_{3} (1 - 2 \nu) & 2 b_{2} c_{3} \nu + b_{3} c_{2} (1 - 2 \nu) & c_{2} c_{3} (2 - 2 \nu) + b_{2} b_{3} (1 - 2 \nu) & 2 b_{3} c_{3} \nu + b_{3} c_{3} (1 - 2 \nu) & c_{3}^{2} (2 - 2 \nu) + b_{3}^{2} (1 - 2 \nu) \end{bmatrix} \begin{bmatrix} u_1 \\ v_1 \\ u_2 \\ v_2 \\ u_3 \\ v_3 \end{bmatrix}= \mathbf{F}^{(e)}</script>
+<script type="math/tex; mode=display">\dfrac {Et} {8A(\nu+1)(1-2\nu)}\begin{bmatrix} b_{1}^{2} (2 - 2 \nu) + c_{1}^{2} (1 - 2 \nu) & 2 b_{1} c_{1} \nu + b_{1} c_{1} (1 - 2 \nu) & b_{1} b_{2} (2 - 2 \nu) + c_{1} c_{2} (1 - 2 \nu) & 2 b_{1} c_{2} \nu + b_{2} c_{1} (1 - 2 \nu) & b_{1} b_{3} (2 - 2 \nu) + c_{1} c_{3} (1 - 2 \nu) & 2 b_{1} c_{3} \nu + b_{3} c_{1} (1 - 2 \nu) \\ 2 b_{1} c_{1} \nu + b_{1} c_{1} (1 - 2 \nu) & c_{1}^{2} (2 - 2 \nu) + b_{1}^{2} (1 - 2 \nu) & 2 b_{2} c_{1} \nu + b_{1} c_{2} (1 - 2 \nu) & c_{1} c_{2} (2 - 2 \nu) + b_{1} b_{2} (1 - 2 \nu) & 2 b_{3} c_{1} \nu + b_{1} c_{3} (1 - 2 \nu) & c_{1} c_{3} (2 - 2 \nu) + b_{1} b_{3} (1 - 2 \nu) \\ b_{1} b_{2} (2 - 2 \nu) + c_{1} c_{2} (1 - 2 \nu) & 2 b_{2} c_{1} \nu + b_{1} c_{2} (1 - 2 \nu) & b_{2}^{2} (2 - 2 \nu) + c_{2}^{2} (1 - 2 \nu) & 2 b_{2} c_{2} \nu + b_{2} c_{2} (1 - 2 \nu) & b_{2} b_{3} (2 - 2 \nu) + c_{2} c_{3} (1 - 2 \nu) & 2 b_{2} c_{3} \nu + b_{3} c_{2} (1 - 2 \nu) \\ 2 b_{1} c_{2} \nu + b_{2} c_{1} (1 - 2 \nu) & c_{1} c_{2} (2 - 2 \nu) + b_{1} b_{2} (1 - 2 \nu) & 2 b_{2} c_{2} \nu + b_{2} c_{2} (1 - 2 \nu) & c_{2}^{2} (2 - 2 \nu) + b_{2}^{2} (1 - 2 \nu) & 2 b_{3} c_{2} \nu + b_{2} c_{3} (1 - 2 \nu) & c_{2} c_{3} (2 - 2 \nu) + b_{2} b_{3} (1 - 2 \nu) \\ b_{1} b_{3} (2 - 2 \nu) + c_{1} c_{3} (1 - 2 \nu) & 2 b_{3} c_{1} \nu + b_{1} c_{3} (1 - 2 \nu) & b_{2} b_{3} (2 - 2 \nu) + c_{2} c_{3} (1 - 2 \nu) & 2 b_{3} c_{2} \nu + b_{2} c_{3} (1 - 2 \nu) & b_{3}^{2} (2 - 2 \nu) + c_{3}^{2} (1 - 2 \nu) & 2 b_{3} c_{3} \nu + b_{3} c_{3} (1 - 2 \nu) \\ 2 b_{1} c_{3} \nu + b_{3} c_{1} (1 - 2 \nu) & c_{1} c_{3} (2 - 2 \nu) + b_{1} b_{3} (1 - 2 \nu) & 2 b_{2} c_{3} \nu + b_{3} c_{2} (1 - 2 \nu) & c_{2} c_{3} (2 - 2 \nu) + b_{2} b_{3} (1 - 2 \nu) & 2 b_{3} c_{3} \nu + b_{3} c_{3} (1 - 2 \nu) & c_{3}^{2} (2 - 2 \nu) + b_{3}^{2} (1 - 2 \nu) \end{bmatrix} \begin{bmatrix} u_1 \\ v_1 \\ u_2 \\ v_2 \\ u_3 \\ v_3 \end{bmatrix}= \mathbf{F}^{(e)}</script>
 </p>
 <p>Los coeficientes los podemos calcular con la siguiente tabla:</p>
 <table>
@@ -801,6 +801,37 @@
 <p>En esta fórmula <script type="math/tex">t</script> es el espesor (en dirección <script type="math/tex">z</script>) del elemento y el área <script type="math/tex">A^{(e)}</script> puede ser calculada el siguiente determinante:</p>
 <p>
 <script type="math/tex; mode=display">A^{(e)} = \dfrac {1} {2} \begin{vmatrix} 1 & x_1 & y_1 \\ 1 & x_2 & y_2 \\ 1 & x_3 & y_3 \end{vmatrix}</script>
+</p>
+<p>Las matrices anteriores resultan del producto:</p>
+<p>
+<script type="math/tex; mode=display">\mathbf{K} = A \mathbf{B}^T\mathbf{D}\mathbf{B} </script>
+</p>
+<p>Donde:</p>
+<p>
+<script type="math/tex; mode=display"> \mathbf{B} = \dfrac {1} {2A} \begin{bmatrix} b_1 & 0 & b_2 & 0 & b_3 & 0 \\ 0 & c_1 & 0 & c_2 & 0 & c_3 \\ c_1 & b_1 & c_2 & b_2 & c_3 & b_3 \end{bmatrix} </script>
+</p>
+<p>y</p>
+<p>
+<script type="math/tex; mode=display">\mathbf{D} = \begin{bmatrix} d_{11} & d_{12} & 0 \\ d_{21} & d_{22} & 0 \\ 0 & 0 & d_{33} \end{bmatrix}</script>
+</p>
+<p>Según el caso, utilizamos:</p>
+<p><strong>Esfuerzo plano</strong>:
+<script type="math/tex; mode=display">d_{11} = d_{22} = \dfrac {E} {1-\nu^2}</script>
+</p>
+<p>
+<script type="math/tex; mode=display">d_{12} = d_{21} = \dfrac {\nu E} {1-\nu^2}</script>
+</p>
+<p>
+<script type="math/tex; mode=display">d_{33} = \dfrac {E} {2(1+\nu)}</script>
+</p>
+<p><strong>Deformación plana</strong>:
+<script type="math/tex; mode=display">d_{11} = d_{22} = \dfrac {E(1-\nu)} {(1+\nu)(1-2\nu)}</script>
+</p>
+<p>
+<script type="math/tex; mode=display">d_{12} = d_{21} = \dfrac {E\nu} {(1+\nu)(1-2\nu)}</script>
+</p>
+<p>
+<script type="math/tex; mode=display">d_{33} = \dfrac {E} {2(1+\nu)}</script>
 </p>
 <h2 id="fuerzas-volumetricas">Fuerzas volumétricas</h2>
 <p>Este vector fuerza modela las fuerzas másicas (volumétricas) en elemento. Nótese que puede tener valores en dirección <script type="math/tex">x</script> y <script type="math/tex">y</script>.</p>
